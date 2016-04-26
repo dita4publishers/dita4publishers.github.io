@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><html xml:lang="en-us" lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+<meta name="copyright" content="(C) Copyright 2005"></meta>
+<meta name="DC.rights.owner" content="(C) Copyright 2005"></meta>
+<meta name="DC.Type" content="task"></meta>
+<meta name="DC.Title" content="Migrating the Style-to-tag Mapping"></meta>
+<meta name="abstract" content="If you want to use the latest code of the Word2DITA transform, but you have an older style-to-tag map (pre-0.9.19RC12Feature30), then you must migrate the older map to the newer markup."></meta>
+<meta name="description" content="If you want to use the latest code of the Word2DITA transform, but you have an older style-to-tag map (pre-0.9.19RC12Feature30), then you must migrate the older map to the newer markup."></meta>
+<meta name="DC.Relation" scheme="URI" content="../d4p-users-guide/word2dita/word2dita-intro.html"></meta>
+<meta name="DC.Relation" scheme="URI" content="../d4p-users-guide/word2dita/word-usage-tips.html"></meta>
+<meta name="DC.Relation" scheme="URI" content="../d4p-users-guide/word2dita/transform-parameters.html"></meta>
+<meta name="prodname" content="DITA For Publishers"></meta>
+<meta name="prodname" content="DITA For Publishers"></meta>
+<meta name="prodname" content="DITA For Publishers"></meta>
+<meta name="prodname" content="DITA For Publishers"></meta>
+<meta name="prodname" content="DITA For Publishers"></meta>
+<meta name="version" content="1"></meta>
+<meta name="version" content="1"></meta>
+<meta name="version" content="1"></meta>
+<meta name="version" content="1"></meta>
+<meta name="version" content="1"></meta>
+<meta name="release" content="0"></meta>
+<meta name="release" content="0"></meta>
+<meta name="release" content="0"></meta>
+<meta name="release" content="0"></meta>
+<meta name="release" content="0"></meta>
+<meta name="modification" content="0RC17"></meta>
+<meta name="modification" content="0RC17"></meta>
+<meta name="modification" content="0RC17"></meta>
+<meta name="modification" content="0RC17"></meta>
+<meta name="modification" content="0RC17"></meta>
+<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
+<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
+<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
+<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
+<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
+<meta name="DC.Format" content="XHTML"></meta>
+<meta name="DC.Identifier" content="migrate-old-map"></meta>
+<link rel="stylesheet" type="text/css" href="../../commonltr.css"></link>
+<title>Migrating the Style-to-tag Mapping</title>
+</head>
+<body id="migrate-old-map">
+
+
+  <h1 class="title topictitle1">Migrating the Style-to-tag Mapping</h1>
+  
+  <div class="body taskbody"><p class="shortdesc">If you want to use the latest code of the Word2DITA transform, but you have an 
+    older style-to-tag map (pre-0.9.19RC12Feature30), then you must migrate the older map to the newer markup.</p>
+
+    <div class="section context">In the latest Word2DITA code, there is an XSLT transform under the
+      <code>&lt;utils/&gt;</code> directory in the plugin. Apply it to your old style-to-tag map. In
+      many cases the migrated file will work as is, in a few cases it may need a
+      small amount of tweaking.</div>
+
+    <ol class="ol steps"><li class="li step">
+        <span class="ph cmd">Write a transformation scenario with the following parameters:</span>
+        <ul class="ul choices">
+          <li class="li choice">XML URL: current file URL</li>
+
+          <li class="li choice">XSL URL: org.dita4publishers.word2dita/utils/style2tagmapMigrator.xsl</li>
+
+          <li class="li choice">Transformer: Saxon PE9.</li>
+
+          <li class="li choice">Output file: the name of the new map file (should be .xml)</li>
+
+        </ul>
+
+      </li>
+<li class="li step">
+        <span class="ph cmd">Store your new map file in the xsl directory of your plugin. For example, 
+          <span class="ph filepath">DITA-OT/plugins/my-word2dita/xsl/new-style2tagmap.xml</span></span>
+      </li>
+</ol>
+
+    </div>
+
+<div class="related-links">
+<div class="familylinks">
+<div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../d4p-users-guide/word2dita/word2dita-intro.html">../d4p-users-guide/word2dita/word2dita-intro.html</a></div>
+<div class="previouslink"><strong>Previous topic:</strong> <a class="link" href="../d4p-users-guide/word2dita/word-usage-tips.html">../d4p-users-guide/word2dita/word-usage-tips.html</a></div>
+<div class="nextlink"><strong>Next topic:</strong> <a class="link" href="../d4p-users-guide/word2dita/transform-parameters.html">../d4p-users-guide/word2dita/transform-parameters.html</a></div>
+</div>
+</div>
+
+</body>
+</html>
