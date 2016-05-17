@@ -11,13 +11,15 @@ version: 0.10.0
 */
 
 html, body { padding: 0px 0px 10px 0px; border: 0; margin: 0; }
-body { font: normal 11px arial, sans-serif; color: #333; line-height: 19px; margin: 0; }
+body { font-weight: normal;
+font-family: Verdana, arial, sans-serif; 
+color: #333; line-height: 19px; margin: 0; }
 #containerTop { height:25px; width:144px; }
 #pad { padding: 0px 20px 0px 20px; }
 a {text-decoration: underline; color: #46546C; }
 a:hover {text-decoration: underline; color: #4d77c3; }
-h1, h2, h3, h4, h5, h6 { font-family: arial, sans-serif;}
-h2 { font-size:16px; font-weight: bold; margin: 0 0 11px 0; }
+h1, h2, h3, h4, h5, h6 { font-family: Verdana, arial, sans-serif;}
+h2 { font-size:18px; font-weight: bold; margin: 0 0 11px 0; }
 .border_2px { border: 1px solid #D8D8D8; padding: 2px; background: #fff; }
 .border_5px { border: 1px solid #D8D8D8; padding: 5px; background: #fff; margin: 0 0 4px 0; }
 img { padding: 0; margin: 0; border: 0; }
@@ -136,3 +138,7 @@ text-shadow: 4px 4px 0px #C3C7CA;
 }
 
 .ylogo { position:absolute;top:5px;left:5px }
+
+.codeblock {
+  background-color: #D8EFD9;
+}
