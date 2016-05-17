@@ -4,12 +4,12 @@
 <meta name="copyright" content="(C) Copyright 2005"></meta>
 <meta name="DC.rights.owner" content="(C) Copyright 2005"></meta>
 <meta name="DC.Type" content="reference"></meta>
-<meta name="DC.Title" content="epub.obfuscate.fonts Ant parameter"></meta>
-<meta name="abstract" content="Indicates whether or not to obfuscate fonts that are marked as obfuscated in the font manifest used when generating the EPUB."></meta>
-<meta name="description" content="Indicates whether or not to obfuscate fonts that are marked as obfuscated in the font manifest used when generating the EPUB."></meta>
+<meta name="DC.Title" content="epub.generate.css.font.rules Ant parameter"></meta>
+<meta name="abstract" content="Indicates whether or not to generate CSS @font-face rules using the configuration details specified a font manifest."></meta>
+<meta name="description" content="Indicates whether or not to generate CSS @font-face rules using the configuration details specified a font manifest."></meta>
 <meta name="DC.Relation" scheme="URI" content="../epub-transtype-parameters-ref.html"></meta>
-<meta name="DC.Relation" scheme="URI" content="ant-parm-epubPubidUriStub.html"></meta>
-<meta name="DC.Relation" scheme="URI" content="ant-parm-d4p.generate-css-font-rules.html"></meta>
+<meta name="DC.Relation" scheme="URI" content="ant-parm-d4p.obfuscate.fonts.html"></meta>
+<meta name="DC.Relation" scheme="URI" content="ant-parm-epubTempDir.html"></meta>
 <meta name="prodname" content="DITA For Publishers"></meta>
 <meta name="prodname" content="DITA For Publishers"></meta>
 <meta name="prodname" content="DITA For Publishers"></meta>
@@ -38,18 +38,21 @@
 <meta name="DC.Format" content="XHTML"></meta>
 <meta name="DC.Identifier" content="ref-epub.obfuscate.fonts"></meta>
 <link rel="stylesheet" type="text/css" href="../../../../commonltr.css"></link>
-<title>epub.obfuscate.fonts Ant parameter</title>
+<title>epub.generate.css.font.rules Ant parameter</title>
 </head>
 <body id="ref-epub.obfuscate.fonts">
 
 
-  <h1 class="title topictitle1">epub.obfuscate.fonts Ant parameter</h1>
+  <h1 class="title topictitle1">epub.generate.css.font.rules Ant parameter</h1>
   
-  <div class="body refbody"><p class="shortdesc">Indicates whether or not to obfuscate fonts that are marked as obfuscated in the font
-    manifest used when generating the EPUB.</p>
+  <div class="body refbody"><p class="shortdesc">Indicates whether or not to generate CSS @font-face rules using the configuration
+    details specified a font manifest.</p>
 
     <div class="section">
       <p class="p">See <a class="xref" href="../embedding-fonts.html">Embedding Fonts in Your EPUB</a> and <a class="xref" href="ant-parm-epub-font-manifest.html">epub.font.manifest Ant parameter</a>.</p>
+
+      <p class="p">The name and location of the generated CSS file is configured in the font-manifest file
+        specified at runtime.</p>
 
     </div>
 
@@ -58,14 +61,14 @@
         
           <dt class="dt dlterm">true</dt>
 
-          <dd class="dd">Fonts marked for obfuscation will be obfuscated when stored in the generated EPUB
-            package.</dd>
+          <dd class="dd">Generate a CSS fragment containing @font-face rules as defined in the font
+            manifest.</dd>
 
         
         
           <dt class="dt dlterm">false</dt>
 
-          <dd class="dd">No fonts will be obfuscated.</dd>
+          <dd class="dd">Do not generate a @font-face CSS fragment.</dd>
 
         
       </dl>
@@ -82,8 +85,8 @@
 <div class="related-links">
 <div class="familylinks">
 <div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../epub-transtype-parameters-ref.html">../epub-transtype-parameters-ref.html</a></div>
-<div class="previouslink"><strong>Previous topic:</strong> <a class="link" href="ant-parm-epubPubidUriStub.html">ant-parm-epubPubidUriStub.html</a></div>
-<div class="nextlink"><strong>Next topic:</strong> <a class="link" href="ant-parm-d4p.generate-css-font-rules.html">ant-parm-d4p.generate-css-font-rules.html</a></div>
+<div class="previouslink"><strong>Previous topic:</strong> <a class="link" href="ant-parm-d4p.obfuscate.fonts.html">ant-parm-d4p.obfuscate.fonts.html</a></div>
+<div class="nextlink"><strong>Next topic:</strong> <a class="link" href="ant-parm-epubTempDir.html">ant-parm-epubTempDir.html</a></div>
 </div>
 </div>
 

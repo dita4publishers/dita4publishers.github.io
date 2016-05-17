@@ -31,2063 +31,2094 @@ var objd63e6660 = {
 var d63e6660 = new YAHOO.widget.TextNode(objd63e6660, root, false);
 
 var objd63e6692 = {
-  label: " Release Notes: Version 1.0.0RC17",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC17.html", 
+  label: " Release Notes: Version 1.0.0RC19",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC19.html", 
   target:"contentwin"
 };
 var d63e6692 = new YAHOO.widget.TextNode(objd63e6692, d63e6660, false);
 
 var objd63e6736 = {
-  label: " Release Notes: Version 1.0.0RC00 (github version)",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0.html", 
+  label: " Release Notes: Version 1.0.0RC17",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC17.html", 
   target:"contentwin"
 };
 var d63e6736 = new YAHOO.widget.TextNode(objd63e6736, d63e6660, false);
 
 var objd63e6780 = {
-  label: " Release Notes: Version 0.9.19RC12",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.19.html", 
+  label: " Release Notes: Version 1.0.0RC00 (github version)",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0.html", 
   target:"contentwin"
 };
 var d63e6780 = new YAHOO.widget.TextNode(objd63e6780, d63e6660, false);
 
 var objd63e6824 = {
-  label: " Release Notes: Version 0.9.18",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.18.html", 
+  label: " Release Notes: Version 0.9.19RC12",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.19.html", 
   target:"contentwin"
 };
 var d63e6824 = new YAHOO.widget.TextNode(objd63e6824, d63e6660, false);
 
 var objd63e6868 = {
-  label: " Release Notes: Version 0.9.16",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.16.html", 
+  label: " Release Notes: Version 0.9.18",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.18.html", 
   target:"contentwin"
 };
 var d63e6868 = new YAHOO.widget.TextNode(objd63e6868, d63e6660, false);
 
 var objd63e6912 = {
-  label: " Release Notes: Version 0.9.15",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.15.html", 
+  label: " Release Notes: Version 0.9.16",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.16.html", 
   target:"contentwin"
 };
 var d63e6912 = new YAHOO.widget.TextNode(objd63e6912, d63e6660, false);
 
 var objd63e6956 = {
-  label: " Release Notes: Version 0.9.14",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.14.html", 
+  label: " Release Notes: Version 0.9.15",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.15.html", 
   target:"contentwin"
 };
 var d63e6956 = new YAHOO.widget.TextNode(objd63e6956, d63e6660, false);
 
 var objd63e7000 = {
-  label: " Release Notes: Version 0.9.13",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.13.html", 
+  label: " Release Notes: Version 0.9.14",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.14.html", 
   target:"contentwin"
 };
 var d63e7000 = new YAHOO.widget.TextNode(objd63e7000, d63e6660, false);
 
 var objd63e7044 = {
-  label: " Release Notes: Version 0.9.12",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.12.html", 
+  label: " Release Notes: Version 0.9.13",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.13.html", 
   target:"contentwin"
 };
 var d63e7044 = new YAHOO.widget.TextNode(objd63e7044, d63e6660, false);
 
 var objd63e7088 = {
-  label: " Release Notes: Version 0.9.11",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.11.html", 
+  label: " Release Notes: Version 0.9.12",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.12.html", 
   target:"contentwin"
 };
 var d63e7088 = new YAHOO.widget.TextNode(objd63e7088, d63e6660, false);
 
 var objd63e7133 = {
-  label: " Release Notes: Version 0.9.10",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.10.html", 
+  label: " Release Notes: Version 0.9.11",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.11.html", 
   target:"contentwin"
 };
 var d63e7133 = new YAHOO.widget.TextNode(objd63e7133, d63e6660, false);
 
 var objd63e7177 = {
-  label: " Release Notes: Version 0.9.9",
-  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.9.html", 
+  label: " Release Notes: Version 0.9.10",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.10.html", 
   target:"contentwin"
 };
 var d63e7177 = new YAHOO.widget.TextNode(objd63e7177, d63e6660, false);
 
-var objd63e7222 = {
+var objd63e7221 = {
+  label: " Release Notes: Version 0.9.9",
+  href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.9.html", 
+  target:"contentwin"
+};
+var d63e7221 = new YAHOO.widget.TextNode(objd63e7221, d63e6660, false);
+
+var objd63e7266 = {
   label: "Chapter 1.  Introduction to DITA For Publishers",
   href: "user_docs/d4p-users-guide/topics/intro-to-d4p.html", 
   target:"contentwin"
 };
-var d63e7222 = new YAHOO.widget.TextNode(objd63e7222, root, false);
+var d63e7266 = new YAHOO.widget.TextNode(objd63e7266, root, false);
 
-var objd63e7252 = {
+var objd63e7296 = {
   label: "Part I.  The DITA For Publishers Open Toolkit Plugins",
   href: "user_docs/d4p-users-guide/introduction-chapter.html", 
   target:"contentwin"
 };
-var d63e7252 = new YAHOO.widget.TextNode(objd63e7252, root, false);
+var d63e7296 = new YAHOO.widget.TextNode(objd63e7296, root, false);
 
-var objd63e7282 = {
+var objd63e7326 = {
   label: "Chapter 2.  Installing the Toolkit Plugins",
   href: "user_docs/d4p-users-guide/tasks/plugin-installation.html", 
   target:"contentwin"
 };
-var d63e7282 = new YAHOO.widget.TextNode(objd63e7282, d63e7252, false);
+var d63e7326 = new YAHOO.widget.TextNode(objd63e7326, d63e7296, false);
 
-var objd63e7326 = {
+var objd63e7370 = {
   label: " Setting Up The kindlegen Command-Line Utility",
   href: "user_docs/d4p-users-guide/epub-plugin/setting-up-kindlegen.html", 
   target:"contentwin"
 };
-var d63e7326 = new YAHOO.widget.TextNode(objd63e7326, d63e7282, false);
+var d63e7370 = new YAHOO.widget.TextNode(objd63e7370, d63e7326, false);
 
-var objd63e7382 = {
+var objd63e7426 = {
   label: "Chapter 3.  Generating EPUBs and Kindle Books from DITA Content",
   href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs.html", 
   target:"contentwin"
 };
-var d63e7382 = new YAHOO.widget.TextNode(objd63e7382, d63e7252, false);
+var d63e7426 = new YAHOO.widget.TextNode(objd63e7426, d63e7296, false);
 
-var objd63e7426 = {
+var objd63e7470 = {
   label: " Generating EPUBs From OxygenXML",
   href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
   target:"contentwin"
 };
-var d63e7426 = new YAHOO.widget.TextNode(objd63e7426, d63e7382, false);
+var d63e7470 = new YAHOO.widget.TextNode(objd63e7470, d63e7426, false);
 
-var objd63e7482 = {
+var objd63e7526 = {
   label: " Generating Kindle Books From OxygenXML",
   href: "user_docs/d4p-users-guide/epub-plugin/generating-kindle-books-from-oxygen.html", 
   target:"contentwin"
 };
-var d63e7482 = new YAHOO.widget.TextNode(objd63e7482, d63e7382, false);
+var d63e7526 = new YAHOO.widget.TextNode(objd63e7526, d63e7426, false);
 
-var objd63e7538 = {
+var objd63e7582 = {
   label: " Using Custom CSS Style Sheets",
   href: "user_docs/d4p-users-guide/epub-plugin/using-custom-css.html", 
   target:"contentwin"
 };
-var d63e7538 = new YAHOO.widget.TextNode(objd63e7538, d63e7382, false);
+var d63e7582 = new YAHOO.widget.TextNode(objd63e7582, d63e7426, false);
 
-var objd63e7594 = {
+var objd63e7638 = {
   label: " Creating Cover Graphics and Covers",
   href: "user_docs/d4p-users-guide/epub-plugin/creating-cover-graphics.html", 
   target:"contentwin"
 };
-var d63e7594 = new YAHOO.widget.TextNode(objd63e7594, d63e7382, false);
+var d63e7638 = new YAHOO.widget.TextNode(objd63e7638, d63e7426, false);
 
-var objd63e7650 = {
+var objd63e7694 = {
   label: " Creating Arbitrary EPUB OPF Metadata",
   href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
   target:"contentwin"
 };
-var d63e7650 = new YAHOO.widget.TextNode(objd63e7650, d63e7382, false);
+var d63e7694 = new YAHOO.widget.TextNode(objd63e7694, d63e7426, false);
 
-var objd63e7704 = {
+var objd63e7748 = {
   label: " Implementing Overrides for Common Processing",
   href: "user_docs/d4p-users-guide/epub-plugin/overriding-base-processing.html", 
   target:"contentwin"
 };
-var d63e7704 = new YAHOO.widget.TextNode(objd63e7704, d63e7382, false);
+var d63e7748 = new YAHOO.widget.TextNode(objd63e7748, d63e7426, false);
 
-var objd63e7763 = {
+var objd63e7807 = {
   label: " Embedding Fonts in Your EPUB",
   href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
   target:"contentwin"
 };
-var d63e7763 = new YAHOO.widget.TextNode(objd63e7763, d63e7382, false);
+var d63e7807 = new YAHOO.widget.TextNode(objd63e7807, d63e7426, false);
 
-var objd63e7819 = {
+var objd63e7863 = {
   label: " EPUB and Kindle Transformation Parameters",
   href: "user_docs/d4p-users-guide/epub-plugin/epub-transtype-parameters-ref.html", 
   target:"contentwin"
 };
-var d63e7819 = new YAHOO.widget.TextNode(objd63e7819, d63e7382, false);
+var d63e7863 = new YAHOO.widget.TextNode(objd63e7863, d63e7426, false);
 
-var objd63e7875 = {
-  label: " args.css.output.dir Ant parameter",
-  href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-argsCssOutputDir.html", 
-  target:"contentwin"
-};
-var d63e7875 = new YAHOO.widget.TextNode(objd63e7875, d63e7819, false);
-
-var objd63e7944 = {
+var objd63e7919 = {
   label: " cover.graphic.file Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
   target:"contentwin"
 };
-var d63e7944 = new YAHOO.widget.TextNode(objd63e7944, d63e7819, false);
+var d63e7919 = new YAHOO.widget.TextNode(objd63e7919, d63e7863, false);
 
-var objd63e8013 = {
+var objd63e7988 = {
   label: " d4p.epubtype Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epubtype.html", 
   target:"contentwin"
 };
-var d63e8013 = new YAHOO.widget.TextNode(objd63e8013, d63e7819, false);
+var d63e7988 = new YAHOO.widget.TextNode(objd63e7988, d63e7863, false);
 
-var objd63e8082 = {
+var objd63e8057 = {
   label: " d4p.max.nav.depth Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-d4pMaxNavDepth.html", 
   target:"contentwin"
 };
-var d63e8082 = new YAHOO.widget.TextNode(objd63e8082, d63e7819, false);
+var d63e8057 = new YAHOO.widget.TextNode(objd63e8057, d63e7863, false);
 
-var objd63e8151 = {
+var objd63e8126 = {
   label: " d4p.max.toc.depth Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-d4pMaxTocDepth.html", 
   target:"contentwin"
 };
-var d63e8151 = new YAHOO.widget.TextNode(objd63e8151, d63e7819, false);
+var d63e8126 = new YAHOO.widget.TextNode(objd63e8126, d63e7863, false);
 
-var objd63e8220 = {
+var objd63e8195 = {
   label: " epub.exclude.auto.rellinks Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epubIncludeAutoRellinks.html", 
   target:"contentwin"
 };
-var d63e8220 = new YAHOO.widget.TextNode(objd63e8220, d63e7819, false);
+var d63e8195 = new YAHOO.widget.TextNode(objd63e8195, d63e7863, false);
 
-var objd63e8289 = {
+var objd63e8264 = {
+  label: " epub.copy.system.css Ant parameter",
+  href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epub-copy-system-css.html", 
+  target:"contentwin"
+};
+var d63e8264 = new YAHOO.widget.TextNode(objd63e8264, d63e7863, false);
+
+var objd63e8333 = {
   label: " epub.font.manifest Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epub-font-manifest.html", 
   target:"contentwin"
 };
-var d63e8289 = new YAHOO.widget.TextNode(objd63e8289, d63e7819, false);
+var d63e8333 = new YAHOO.widget.TextNode(objd63e8333, d63e7863, false);
 
-var objd63e8358 = {
+var objd63e8402 = {
   label: " epub.fonts.output.dir Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epub-font-output-dir.html", 
   target:"contentwin"
 };
-var d63e8358 = new YAHOO.widget.TextNode(objd63e8358, d63e7819, false);
+var d63e8402 = new YAHOO.widget.TextNode(objd63e8402, d63e7863, false);
 
-var objd63e8427 = {
+var objd63e8471 = {
   label: " epub.pubid.uri.stub Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epubPubidUriStub.html", 
   target:"contentwin"
 };
-var d63e8427 = new YAHOO.widget.TextNode(objd63e8427, d63e7819, false);
+var d63e8471 = new YAHOO.widget.TextNode(objd63e8471, d63e7863, false);
 
-var objd63e8496 = {
+var objd63e8540 = {
   label: " epub.obfuscate.fonts Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-d4p.obfuscate.fonts.html", 
   target:"contentwin"
 };
-var d63e8496 = new YAHOO.widget.TextNode(objd63e8496, d63e7819, false);
+var d63e8540 = new YAHOO.widget.TextNode(objd63e8540, d63e7863, false);
 
-var objd63e8566 = {
+var objd63e8610 = {
+  label: " epub.generate.css.font.rules Ant parameter",
+  href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-d4p.generate-css-font-rules.html", 
+  target:"contentwin"
+};
+var d63e8610 = new YAHOO.widget.TextNode(objd63e8610, d63e7863, false);
+
+var objd63e8679 = {
   label: " epub.temp.dir Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-epubTempDir.html", 
   target:"contentwin"
 };
-var d63e8566 = new YAHOO.widget.TextNode(objd63e8566, d63e7819, false);
+var d63e8679 = new YAHOO.widget.TextNode(objd63e8679, d63e7863, false);
 
-var objd63e8635 = {
+var objd63e8748 = {
   label: " images.output.dir Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-imagesOutputDir.html", 
   target:"contentwin"
 };
-var d63e8635 = new YAHOO.widget.TextNode(objd63e8635, d63e7819, false);
+var d63e8748 = new YAHOO.widget.TextNode(objd63e8748, d63e7863, false);
 
-var objd63e8704 = {
+var objd63e8817 = {
   label: " kindlegen.executable Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
   target:"contentwin"
 };
-var d63e8704 = new YAHOO.widget.TextNode(objd63e8704, d63e7819, false);
+var d63e8817 = new YAHOO.widget.TextNode(objd63e8817, d63e7863, false);
 
-var objd63e8773 = {
+var objd63e8886 = {
   label: " title.only.topic.class.spec Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-titleOnlyTopicClassSpec.html", 
   target:"contentwin"
 };
-var d63e8773 = new YAHOO.widget.TextNode(objd63e8773, d63e7819, false);
+var d63e8886 = new YAHOO.widget.TextNode(objd63e8886, d63e7863, false);
 
-var objd63e8842 = {
+var objd63e8955 = {
   label: " title.only.topic.title.class.spec Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-titleOnlyTopicTitleClassSpec.html", 
   target:"contentwin"
 };
-var d63e8842 = new YAHOO.widget.TextNode(objd63e8842, d63e7819, false);
+var d63e8955 = new YAHOO.widget.TextNode(objd63e8955, d63e7863, false);
 
-var objd63e8911 = {
+var objd63e9024 = {
   label: " topics.output.dir Ant parameter",
   href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-topicsOutputDir.html", 
   target:"contentwin"
 };
-var d63e8911 = new YAHOO.widget.TextNode(objd63e8911, d63e7819, false);
+var d63e9024 = new YAHOO.widget.TextNode(objd63e9024, d63e7863, false);
 
-var objd63e8980 = {
+var objd63e9093 = {
   label: "Chapter 4.  Map-Driven Processing",
   href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
   target:"contentwin"
 };
-var d63e8980 = new YAHOO.widget.TextNode(objd63e8980, d63e7252, false);
+var d63e9093 = new YAHOO.widget.TextNode(objd63e9093, d63e7296, false);
 
-var objd63e9024 = {
+var objd63e9137 = {
   label: " Data Collection Processing Phase",
   href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
   target:"contentwin"
 };
-var d63e9024 = new YAHOO.widget.TextNode(objd63e9024, d63e8980, false);
+var d63e9137 = new YAHOO.widget.TextNode(objd63e9137, d63e9093, false);
 
-var objd63e9080 = {
+var objd63e9193 = {
   label: " Numbering Things: Collected Data and Enumeration",
   href: "user_docs/d4p-users-guide/map-driven-processing/enumeration.html", 
   target:"contentwin"
 };
-var d63e9080 = new YAHOO.widget.TextNode(objd63e9080, d63e8980, false);
+var d63e9193 = new YAHOO.widget.TextNode(objd63e9193, d63e9093, false);
 
-var objd63e9136 = {
+var objd63e9249 = {
   label: " Index Generation",
   href: "user_docs/d4p-users-guide/map-driven-processing/index-generation.html", 
   target:"contentwin"
 };
-var d63e9136 = new YAHOO.widget.TextNode(objd63e9136, d63e8980, false);
+var d63e9249 = new YAHOO.widget.TextNode(objd63e9249, d63e9093, false);
 
-var objd63e9192 = {
+var objd63e9305 = {
   label: " Graphic Map Generation",
   href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
   target:"contentwin"
 };
-var d63e9192 = new YAHOO.widget.TextNode(objd63e9192, d63e8980, false);
+var d63e9305 = new YAHOO.widget.TextNode(objd63e9305, d63e9093, false);
 
-var objd63e9248 = {
+var objd63e9361 = {
   label: "Chapter 5.  HTML2 Plugin",
   href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
   target:"contentwin"
 };
-var d63e9248 = new YAHOO.widget.TextNode(objd63e9248, d63e7252, false);
+var d63e9361 = new YAHOO.widget.TextNode(objd63e9361, d63e7296, false);
 
-var objd63e9292 = {
+var objd63e9405 = {
   label: " Understanding the HTML2 Transformations",
   href: "user_docs/d4p-users-guide/html2-plugin/understanding-html2-transforms.html", 
   target:"contentwin"
 };
-var d63e9292 = new YAHOO.widget.TextNode(objd63e9292, d63e9248, false);
+var d63e9405 = new YAHOO.widget.TextNode(objd63e9405, d63e9361, false);
 
-var objd63e9348 = {
+var objd63e9461 = {
   label: " Overall HTML Generation Process Flow",
   href: "user_docs/d4p-users-guide/html2-plugin/overall-process-flow.html", 
   target:"contentwin"
 };
-var d63e9348 = new YAHOO.widget.TextNode(objd63e9348, d63e9292, false);
+var d63e9461 = new YAHOO.widget.TextNode(objd63e9461, d63e9405, false);
 
-var objd63e9417 = {
+var objd63e9530 = {
   label: " Extending and Customizing Enumeration Processing (Numbering)",
   href: "user_docs/d4p-users-guide/html2-plugin/customizing-enumeration.html", 
   target:"contentwin"
 };
-var d63e9417 = new YAHOO.widget.TextNode(objd63e9417, d63e9292, false);
+var d63e9530 = new YAHOO.widget.TextNode(objd63e9530, d63e9405, false);
 
-var objd63e9486 = {
+var objd63e9599 = {
   label: " Using collected-data ",
   href: "user_docs/d4p-users-guide/topics/using-collected-data.html", 
   target:"contentwin"
 };
-var d63e9486 = new YAHOO.widget.TextNode(objd63e9486, d63e9417, false);
+var d63e9599 = new YAHOO.widget.TextNode(objd63e9599, d63e9530, false);
 
-var objd63e9565 = {
+var objd63e9678 = {
   label: " HTML2 Transformation Parameters",
   href: "user_docs/d4p-users-guide/html2-plugin/html2-transtype-parameters-ref.html", 
   target:"contentwin"
 };
-var d63e9565 = new YAHOO.widget.TextNode(objd63e9565, d63e9248, false);
+var d63e9678 = new YAHOO.widget.TextNode(objd63e9678, d63e9361, false);
 
-var objd63e9621 = {
+var objd63e9734 = {
   label: " html2.file.organization.strategy Ant parameter",
   href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
   target:"contentwin"
 };
-var d63e9621 = new YAHOO.widget.TextNode(objd63e9621, d63e9565, false);
+var d63e9734 = new YAHOO.widget.TextNode(objd63e9734, d63e9678, false);
 
-var objd63e9690 = {
+var objd63e9803 = {
   label: " html2.generate.dynamic.toc Ant parameter",
   href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
   target:"contentwin"
 };
-var d63e9690 = new YAHOO.widget.TextNode(objd63e9690, d63e9565, false);
+var d63e9803 = new YAHOO.widget.TextNode(objd63e9803, d63e9678, false);
 
-var objd63e9759 = {
+var objd63e9872 = {
   label: " html2.generate.frameset Ant parameter",
   href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
   target:"contentwin"
 };
-var d63e9759 = new YAHOO.widget.TextNode(objd63e9759, d63e9565, false);
+var d63e9872 = new YAHOO.widget.TextNode(objd63e9872, d63e9678, false);
 
-var objd63e9828 = {
+var objd63e9941 = {
   label: " html2.generate.static.toc Ant parameter",
   href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
   target:"contentwin"
 };
-var d63e9828 = new YAHOO.widget.TextNode(objd63e9828, d63e9565, false);
+var d63e9941 = new YAHOO.widget.TextNode(objd63e9941, d63e9678, false);
 
-var objd63e11730 = {
+var objd63e11843 = {
   label: "Chapter 6.  HTML5 Plugin",
   href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
   target:"contentwin"
 };
-var d63e11730 = new YAHOO.widget.TextNode(objd63e11730, d63e7252, false);
+var d63e11843 = new YAHOO.widget.TextNode(objd63e11843, d63e7296, false);
 
-var objd63e11823 = {
+var objd63e11936 = {
   label: " Getting Started With the HTML5 Transformation",
   href: "user_docs/d4p-users-guide/html5-plugin/general/html5-getting-started.html", 
   target:"contentwin"
 };
-var d63e11823 = new YAHOO.widget.TextNode(objd63e11823, d63e11730, false);
+var d63e11936 = new YAHOO.widget.TextNode(objd63e11936, d63e11843, false);
 
-var objd63e11938 = {
+var objd63e12051 = {
   label: " Requirements",
   href: "user_docs/d4p-users-guide/html5-plugin/general/requirements.html", 
   target:"contentwin"
 };
-var d63e11938 = new YAHOO.widget.TextNode(objd63e11938, d63e11823, false);
+var d63e12051 = new YAHOO.widget.TextNode(objd63e12051, d63e11936, false);
 
-var objd63e12079 = {
+var objd63e12192 = {
   label: " Downloading HTML5 plugin",
   href: "user_docs/d4p-users-guide/html5-plugin/general/downloading.html", 
   target:"contentwin"
 };
-var d63e12079 = new YAHOO.widget.TextNode(objd63e12079, d63e11823, false);
+var d63e12192 = new YAHOO.widget.TextNode(objd63e12192, d63e11936, false);
 
-var objd63e12221 = {
+var objd63e12334 = {
   label: " Specific installation notes for developers",
   href: "user_docs/d4p-users-guide/html5-plugin/general/install.html", 
   target:"contentwin"
 };
-var d63e12221 = new YAHOO.widget.TextNode(objd63e12221, d63e11823, false);
+var d63e12334 = new YAHOO.widget.TextNode(objd63e12334, d63e11936, false);
 
-var objd63e12363 = {
+var objd63e12476 = {
   label: " Running the HTML5 Plugin",
   href: "user_docs/d4p-users-guide/html5-plugin/general/running.html", 
   target:"contentwin"
 };
-var d63e12363 = new YAHOO.widget.TextNode(objd63e12363, d63e11823, false);
+var d63e12476 = new YAHOO.widget.TextNode(objd63e12476, d63e11936, false);
 
-var objd63e12505 = {
+var objd63e12618 = {
   label: " Changed Behaviours",
   href: "user_docs/d4p-users-guide/html5-plugin/general/changed_behavior.html", 
   target:"contentwin"
 };
-var d63e12505 = new YAHOO.widget.TextNode(objd63e12505, d63e11823, false);
+var d63e12618 = new YAHOO.widget.TextNode(objd63e12618, d63e11936, false);
 
-var objd63e12647 = {
+var objd63e12760 = {
   label: " License",
   href: "user_docs/d4p-users-guide/html5-plugin/general/licence.html", 
   target:"contentwin"
 };
-var d63e12647 = new YAHOO.widget.TextNode(objd63e12647, d63e11823, false);
+var d63e12760 = new YAHOO.widget.TextNode(objd63e12760, d63e11936, false);
 
-var objd63e12789 = {
+var objd63e12902 = {
   label: " The default theme",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/html5-default-theme.html", 
   target:"contentwin"
 };
-var d63e12789 = new YAHOO.widget.TextNode(objd63e12789, d63e11730, false);
+var d63e12902 = new YAHOO.widget.TextNode(objd63e12902, d63e11843, false);
 
-var objd63e12904 = {
+var objd63e13017 = {
   label: " Replacing the index.html file",
   href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
   target:"contentwin"
 };
-var d63e12904 = new YAHOO.widget.TextNode(objd63e12904, d63e12789, false);
+var d63e13017 = new YAHOO.widget.TextNode(objd63e13017, d63e12902, false);
 
-var objd63e13046 = {
+var objd63e13159 = {
   label: " Multiple columns layout",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/muti-columns.html", 
   target:"contentwin"
 };
-var d63e13046 = new YAHOO.widget.TextNode(objd63e13046, d63e12789, false);
+var d63e13159 = new YAHOO.widget.TextNode(objd63e13159, d63e12902, false);
 
-var objd63e13188 = {
+var objd63e13301 = {
   label: " CSS grid",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/css-grid.html", 
   target:"contentwin"
 };
-var d63e13188 = new YAHOO.widget.TextNode(objd63e13188, d63e12789, false);
+var d63e13301 = new YAHOO.widget.TextNode(objd63e13301, d63e12902, false);
 
-var objd63e13330 = {
+var objd63e13443 = {
   label: " Image support",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/images.html", 
   target:"contentwin"
 };
-var d63e13330 = new YAHOO.widget.TextNode(objd63e13330, d63e12789, false);
+var d63e13443 = new YAHOO.widget.TextNode(objd63e13443, d63e12902, false);
 
-var objd63e13472 = {
+var objd63e13585 = {
   label: " Notes",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/notes.html", 
   target:"contentwin"
 };
-var d63e13472 = new YAHOO.widget.TextNode(objd63e13472, d63e12789, false);
+var d63e13585 = new YAHOO.widget.TextNode(objd63e13585, d63e12902, false);
 
-var objd63e13614 = {
+var objd63e13727 = {
   label: " UI",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/ui-intro.html", 
   target:"contentwin"
 };
-var d63e13614 = new YAHOO.widget.TextNode(objd63e13614, d63e12789, false);
+var d63e13727 = new YAHOO.widget.TextNode(objd63e13727, d63e12902, false);
 
-var objd63e13756 = {
+var objd63e13869 = {
   label: " Accordion",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/accordion.html", 
   target:"contentwin"
 };
-var d63e13756 = new YAHOO.widget.TextNode(objd63e13756, d63e13614, false);
+var d63e13869 = new YAHOO.widget.TextNode(objd63e13869, d63e13727, false);
 
-var objd63e13922 = {
+var objd63e14035 = {
   label: " Cycle",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/ui-images.html", 
   target:"contentwin"
 };
-var d63e13922 = new YAHOO.widget.TextNode(objd63e13922, d63e13614, false);
+var d63e14035 = new YAHOO.widget.TextNode(objd63e14035, d63e13727, false);
 
-var objd63e14088 = {
+var objd63e14201 = {
   label: " Developers",
   href: "user_docs/d4p-users-guide/html5-plugin/general/developers.html", 
   target:"contentwin"
 };
-var d63e14088 = new YAHOO.widget.TextNode(objd63e14088, d63e11730, false);
+var d63e14201 = new YAHOO.widget.TextNode(objd63e14201, d63e11843, false);
 
-var objd63e14205 = {
+var objd63e14318 = {
   label: " Creating a customization plugin",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/customization-plugin.html", 
   target:"contentwin"
 };
-var d63e14205 = new YAHOO.widget.TextNode(objd63e14205, d63e14088, false);
+var d63e14318 = new YAHOO.widget.TextNode(objd63e14318, d63e14201, false);
 
-var objd63e14347 = {
+var objd63e14460 = {
   label: " Theme Development",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/theme-dev.html", 
   target:"contentwin"
 };
-var d63e14347 = new YAHOO.widget.TextNode(objd63e14347, d63e14088, false);
+var d63e14460 = new YAHOO.widget.TextNode(objd63e14460, d63e14201, false);
 
-var objd63e14489 = {
+var objd63e14602 = {
   label: " The Theme cache process",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/theme-general-process.html", 
   target:"contentwin"
 };
-var d63e14489 = new YAHOO.widget.TextNode(objd63e14489, d63e14347, false);
+var d63e14602 = new YAHOO.widget.TextNode(objd63e14602, d63e14460, false);
 
-var objd63e14655 = {
+var objd63e14768 = {
   label: " Theme configuration file: principle",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/theme-config.html", 
   target:"contentwin"
 };
-var d63e14655 = new YAHOO.widget.TextNode(objd63e14655, d63e14347, false);
+var d63e14768 = new YAHOO.widget.TextNode(objd63e14768, d63e14460, false);
 
-var objd63e14821 = {
+var objd63e14934 = {
   label: " Let\'s explore the configuration file",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/theme-config-file.html", 
   target:"contentwin"
 };
-var d63e14821 = new YAHOO.widget.TextNode(objd63e14821, d63e14347, false);
+var d63e14934 = new YAHOO.widget.TextNode(objd63e14934, d63e14460, false);
 
-var objd63e14987 = {
+var objd63e15100 = {
   label: " How to add Internet Explorer conditional css",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/theme-add-conditional-css.html", 
   target:"contentwin"
 };
-var d63e14987 = new YAHOO.widget.TextNode(objd63e14987, d63e14347, false);
+var d63e15100 = new YAHOO.widget.TextNode(objd63e15100, d63e14460, false);
 
-var objd63e15152 = {
+var objd63e15265 = {
   label: " Adding Google analytics tracking code",
   href: "user_docs/d4p-users-guide/html5-plugin/how-to/analytics.html", 
   target:"contentwin"
 };
-var d63e15152 = new YAHOO.widget.TextNode(objd63e15152, d63e14347, false);
+var d63e15265 = new YAHOO.widget.TextNode(objd63e15265, d63e14460, false);
 
-var objd63e15318 = {
+var objd63e15431 = {
   label: " HTML5 Transform Reference",
   href: "user_docs/d4p-users-guide/html5-plugin/references/html5-reference.html", 
   target:"contentwin"
 };
-var d63e15318 = new YAHOO.widget.TextNode(objd63e15318, d63e11730, false);
+var d63e15431 = new YAHOO.widget.TextNode(objd63e15431, d63e11843, false);
 
-var objd63e15433 = {
+var objd63e15546 = {
   label: " Directory structure",
   href: "user_docs/d4p-users-guide/html5-plugin/dev/directory-structure.html", 
   target:"contentwin"
 };
-var d63e15433 = new YAHOO.widget.TextNode(objd63e15433, d63e15318, false);
+var d63e15546 = new YAHOO.widget.TextNode(objd63e15546, d63e15431, false);
 
-var objd63e15575 = {
+var objd63e15688 = {
   label: " Availaible ant properties ",
   href: "user_docs/d4p-users-guide/html5-plugin/references/ant-properties.html", 
   target:"contentwin"
 };
-var d63e15575 = new YAHOO.widget.TextNode(objd63e15575, d63e15318, false);
+var d63e15688 = new YAHOO.widget.TextNode(objd63e15688, d63e15431, false);
 
-var objd63e15717 = {
+var objd63e15830 = {
   label: "Chapter 7.  Generating DITA from Documents (Word-to-DITA Transformation Framework)",
   href: "user_docs/d4p-users-guide/word2dita/word-to-dita-plugin.html", 
   target:"contentwin"
 };
-var d63e15717 = new YAHOO.widget.TextNode(objd63e15717, d63e7252, false);
+var d63e15830 = new YAHOO.widget.TextNode(objd63e15830, d63e7296, false);
 
-var objd63e15761 = {
+var objd63e15874 = {
   label: "Chapter 8.  Extending the DITA for Publishers Transformations",
   href: "user_docs/d4p-users-guide/topics/extending-d4p-plugins.html", 
   target:"contentwin"
 };
-var d63e15761 = new YAHOO.widget.TextNode(objd63e15761, d63e7252, false);
+var d63e15874 = new YAHOO.widget.TextNode(objd63e15874, d63e7296, false);
 
-var objd63e15805 = {
+var objd63e15918 = {
   label: "Part II.  The DITA For Publishers Markup Vocabulary",
   href: "user_docs/d4p-users-guide/vocabulary-part/vocabulary-part.html", 
   target:"contentwin"
 };
-var d63e15805 = new YAHOO.widget.TextNode(objd63e15805, root, false);
+var d63e15918 = new YAHOO.widget.TextNode(objd63e15918, root, false);
 
-var objd63e15837 = {
+var objd63e15950 = {
   label: "Chapter 9.  Understanding the DITA For Publishers Markup Vocabulary",
   href: "user_docs/d4p-users-guide/vocabulary-part/d4p-vocabulary-concepts.html", 
   target:"contentwin"
 };
-var d63e15837 = new YAHOO.widget.TextNode(objd63e15837, d63e15805, false);
+var d63e15950 = new YAHOO.widget.TextNode(objd63e15950, d63e15918, false);
 
-var objd63e15881 = {
+var objd63e15994 = {
   label: " DITA for Publishers Vocabulary Modules Overview",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/specialization-modules-overview.html", 
   target:"contentwin"
 };
-var d63e15881 = new YAHOO.widget.TextNode(objd63e15881, d63e15837, false);
+var d63e15994 = new YAHOO.widget.TextNode(objd63e15994, d63e15950, false);
 
-var objd63e15935 = {
+var objd63e16048 = {
   label: " Publication Component Topic Types",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/d4p-topic-types.html", 
   target:"contentwin"
 };
-var d63e15935 = new YAHOO.widget.TextNode(objd63e15935, d63e15881, false);
+var d63e16048 = new YAHOO.widget.TextNode(objd63e16048, d63e15994, false);
 
-var objd63e16004 = {
+var objd63e16117 = {
   label: " Publication Maps",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/pubmap-domain.html", 
   target:"contentwin"
 };
-var d63e16004 = new YAHOO.widget.TextNode(objd63e16004, d63e15881, false);
+var d63e16117 = new YAHOO.widget.TextNode(objd63e16117, d63e15994, false);
 
-var objd63e16073 = {
+var objd63e16186 = {
   label: " DITA For Publishers Domains",
   href: "user_docs/d4p-users-guide/vocabulary-part/domain-modules-overview.html", 
   target:"contentwin"
 };
-var d63e16073 = new YAHOO.widget.TextNode(objd63e16073, d63e15881, false);
+var d63e16186 = new YAHOO.widget.TextNode(objd63e16186, d63e15994, false);
 
-var objd63e16142 = {
+var objd63e16255 = {
   label: " Publication Map Domains",
   href: "user_docs/d4p-users-guide/vocabulary-part/map-domains-overview.html", 
   target:"contentwin"
 };
-var d63e16142 = new YAHOO.widget.TextNode(objd63e16142, d63e16073, false);
+var d63e16255 = new YAHOO.widget.TextNode(objd63e16255, d63e16186, false);
 
-var objd63e16223 = {
+var objd63e16336 = {
   label: " Topic Domains",
   href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
   target:"contentwin"
 };
-var d63e16223 = new YAHOO.widget.TextNode(objd63e16223, d63e16073, false);
+var d63e16336 = new YAHOO.widget.TextNode(objd63e16336, d63e16186, false);
 
-var objd63e16304 = {
+var objd63e16417 = {
   label: " Classification Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/classification-domain.html", 
   target:"contentwin"
 };
-var d63e16304 = new YAHOO.widget.TextNode(objd63e16304, d63e16073, false);
+var d63e16417 = new YAHOO.widget.TextNode(objd63e16417, d63e16186, false);
 
-var objd63e16385 = {
+var objd63e16498 = {
   label: " Enumeration Domains",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/enumeration-domains.html", 
   target:"contentwin"
 };
-var d63e16385 = new YAHOO.widget.TextNode(objd63e16385, d63e16073, false);
+var d63e16498 = new YAHOO.widget.TextNode(objd63e16498, d63e16186, false);
 
-var objd63e16466 = {
+var objd63e16579 = {
   label: " Formatting Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/formatting-domain.html", 
   target:"contentwin"
 };
-var d63e16466 = new YAHOO.widget.TextNode(objd63e16466, d63e16073, false);
+var d63e16579 = new YAHOO.widget.TextNode(objd63e16579, d63e16186, false);
 
-var objd63e16547 = {
+var objd63e16660 = {
   label: " Publication Content Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/pubcontent-domain.html", 
   target:"contentwin"
 };
-var d63e16547 = new YAHOO.widget.TextNode(objd63e16547, d63e16073, false);
+var d63e16660 = new YAHOO.widget.TextNode(objd63e16660, d63e16186, false);
 
-var objd63e16628 = {
+var objd63e16741 = {
   label: " Rendition Target Attribute Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/rendition-target-att.html", 
   target:"contentwin"
 };
-var d63e16628 = new YAHOO.widget.TextNode(objd63e16628, d63e16073, false);
+var d63e16741 = new YAHOO.widget.TextNode(objd63e16741, d63e16186, false);
 
-var objd63e16712 = {
+var objd63e16825 = {
   label: " Ruby Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/ruby-domain.html", 
   target:"contentwin"
 };
-var d63e16712 = new YAHOO.widget.TextNode(objd63e16712, d63e16073, false);
+var d63e16825 = new YAHOO.widget.TextNode(objd63e16825, d63e16186, false);
 
-var objd63e16796 = {
+var objd63e16909 = {
   label: " Variables Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/variables-domain.html", 
   target:"contentwin"
 };
-var d63e16796 = new YAHOO.widget.TextNode(objd63e16796, d63e16073, false);
+var d63e16909 = new YAHOO.widget.TextNode(objd63e16909, d63e16186, false);
 
-var objd63e16877 = {
+var objd63e16990 = {
   label: " Verse Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/versie-domain.html", 
   target:"contentwin"
 };
-var d63e16877 = new YAHOO.widget.TextNode(objd63e16877, d63e16073, false);
+var d63e16990 = new YAHOO.widget.TextNode(objd63e16990, d63e16186, false);
 
-var objd63e16959 = {
+var objd63e17072 = {
   label: " XML Domain",
   href: "user_docs/d4p-users-guide/vocabulary-part/topics/xml-domain.html", 
   target:"contentwin"
 };
-var d63e16959 = new YAHOO.widget.TextNode(objd63e16959, d63e16073, false);
+var d63e17072 = new YAHOO.widget.TextNode(objd63e17072, d63e16186, false);
 
-var objd63e17038 = {
+var objd63e17151 = {
   label: "Chapter 10.  Integrating D4P Modules Into Document Type Shells",
   href: "user_docs/d4p-users-guide/vocabulary-part/integrating-modules.html", 
   target:"contentwin"
 };
-var d63e17038 = new YAHOO.widget.TextNode(objd63e17038, d63e15805, false);
+var d63e17151 = new YAHOO.widget.TextNode(objd63e17151, d63e15918, false);
 
-var objd63e17082 = {
+var objd63e17195 = {
   label: " Integrating Attribute Domains",
   href: "user_docs/d4p-users-guide/vocabulary-part/integrating-attribute-domains.html", 
   target:"contentwin"
 };
-var d63e17082 = new YAHOO.widget.TextNode(objd63e17082, d63e17038, false);
+var d63e17195 = new YAHOO.widget.TextNode(objd63e17195, d63e17151, false);
 
-var objd63e17141 = {
+var objd63e17254 = {
   label: "Chapter 11.  DITA For Publishers Vocabulary Reference",
   href: "user_docs/d4p-users-guide/vocabulary-part/d4p-vocabulary-reference.html", 
   target:"contentwin"
 };
-var d63e17141 = new YAHOO.widget.TextNode(objd63e17141, d63e15805, false);
+var d63e17254 = new YAHOO.widget.TextNode(objd63e17254, d63e15918, false);
 
-var objd63e17185 = {
+var objd63e17298 = {
   label: "Part III.  The DITA For Publishers Word to DITA and DITA to InDesign Tools",
   href: "user_docs/d4p-users-guide/transform-frameworks-part/transform-frameworks-part.html", 
   target:"contentwin"
 };
-var d63e17185 = new YAHOO.widget.TextNode(objd63e17185, root, false);
+var d63e17298 = new YAHOO.widget.TextNode(objd63e17298, root, false);
 
-var objd63e17217 = {
+var objd63e17330 = {
   label: "Chapter 12.  The Word-to-DITA Transformation Framework",
   href: "user_docs/d4p-users-guide/word2dita/word2dita-intro.html", 
   target:"contentwin"
 };
-var d63e17217 = new YAHOO.widget.TextNode(objd63e17217, d63e17185, false);
+var d63e17330 = new YAHOO.widget.TextNode(objd63e17330, d63e17298, false);
 
-var objd63e17261 = {
+var objd63e17374 = {
   label: " Getting Started With The Word2DITA Transform",
   href: "user_docs/d4p-users-guide/word2dita/w2d-getting-started.html", 
   target:"contentwin"
 };
-var d63e17261 = new YAHOO.widget.TextNode(objd63e17261, d63e17217, false);
+var d63e17374 = new YAHOO.widget.TextNode(objd63e17374, d63e17330, false);
 
-var objd63e17317 = {
+var objd63e17430 = {
   label: " Generating DITA from Word Using the Toolkit Plugin",
   href: "user_docs/d4p-users-guide/word2dita/word-to-dita-plugin-usage.html", 
   target:"contentwin"
 };
-var d63e17317 = new YAHOO.widget.TextNode(objd63e17317, d63e17217, false);
+var d63e17430 = new YAHOO.widget.TextNode(objd63e17430, d63e17330, false);
 
-var objd63e17373 = {
+var objd63e17486 = {
   label: " Setting Up an Ant Script for Running the Word-to-DITA Transform",
   href: "user_docs/d4p-users-guide/word2dita/word-to-dita-ant-task.html", 
   target:"contentwin"
 };
-var d63e17373 = new YAHOO.widget.TextNode(objd63e17373, d63e17317, false);
+var d63e17486 = new YAHOO.widget.TextNode(objd63e17486, d63e17430, false);
 
-var objd63e17442 = {
+var objd63e17555 = {
   label: " Generating DITA From Within OxygenXML",
   href: "user_docs/docx2dita_guide_and_reference/word2dita-from-oxygen.html", 
   target:"contentwin"
 };
-var d63e17442 = new YAHOO.widget.TextNode(objd63e17442, d63e17217, false);
+var d63e17555 = new YAHOO.widget.TextNode(objd63e17555, d63e17330, false);
 
-var objd63e17498 = {
+var objd63e17611 = {
   label: " Style to Tag Mapping",
   href: "user_docs/docx2dita_guide_and_reference/style-to-tag-map-overview.html", 
   target:"contentwin"
 };
-var d63e17498 = new YAHOO.widget.TextNode(objd63e17498, d63e17217, false);
+var d63e17611 = new YAHOO.widget.TextNode(objd63e17611, d63e17330, false);
 
-var objd63e17554 = {
+var objd63e17667 = {
   label: " Common Style-to-Tag Mapping Cases",
   href: "user_docs/d4p-users-guide/word2dita/common-mapping-cases.html", 
   target:"contentwin"
 };
-var d63e17554 = new YAHOO.widget.TextNode(objd63e17554, d63e17217, false);
+var d63e17667 = new YAHOO.widget.TextNode(objd63e17667, d63e17330, false);
 
-var objd63e17610 = {
+var objd63e17723 = {
   label: " Troubleshooting the Word-to-DITA Process",
   href: "user_docs/d4p-users-guide/word2dita/troubleshooting-word2dita.html", 
   target:"contentwin"
 };
-var d63e17610 = new YAHOO.widget.TextNode(objd63e17610, d63e17217, false);
+var d63e17723 = new YAHOO.widget.TextNode(objd63e17723, d63e17330, false);
 
-var objd63e17666 = {
+var objd63e17779 = {
   label: " Word-to-DITA Style-to-Tag Mapping Video Tutorial",
   href: "user_docs/d4p-users-guide/word2dita/word2dita-video-tutorial-01.html", 
   target:"contentwin"
 };
-var d63e17666 = new YAHOO.widget.TextNode(objd63e17666, d63e17217, false);
+var d63e17779 = new YAHOO.widget.TextNode(objd63e17779, d63e17330, false);
 
-var objd63e17722 = {
+var objd63e17835 = {
   label: " Extending and Overriding the Word to DITA Transform",
   href: "user_docs/d4p-users-guide/word2dita/customizing-the-transform.html", 
   target:"contentwin"
 };
-var d63e17722 = new YAHOO.widget.TextNode(objd63e17722, d63e17217, false);
+var d63e17835 = new YAHOO.widget.TextNode(objd63e17835, d63e17330, false);
 
-var objd63e17778 = {
+var objd63e17891 = {
   label: " Sample Custom Word-to-DITA XSLT Stylesheet",
   href: "user_docs/d4p-users-guide/word2dita/sample-customization-transform.html", 
   target:"contentwin"
 };
-var d63e17778 = new YAHOO.widget.TextNode(objd63e17778, d63e17722, false);
+var d63e17891 = new YAHOO.widget.TextNode(objd63e17891, d63e17835, false);
 
-var objd63e17847 = {
+var objd63e17960 = {
   label: " Tips for Using Word With the Word-to-DITA Transform",
   href: "user_docs/d4p-users-guide/word2dita/word-usage-tips.html", 
   target:"contentwin"
 };
-var d63e17847 = new YAHOO.widget.TextNode(objd63e17847, d63e17217, false);
+var d63e17960 = new YAHOO.widget.TextNode(objd63e17960, d63e17330, false);
 
-var objd63e17903 = {
+var objd63e18016 = {
   label: " Migrating the Style-to-tag Mapping",
   href: "user_docs/docx2dita_guide_and_reference/style-to-tag-map-migrate.html", 
   target:"contentwin"
 };
-var d63e17903 = new YAHOO.widget.TextNode(objd63e17903, d63e17217, false);
+var d63e18016 = new YAHOO.widget.TextNode(objd63e18016, d63e17330, false);
 
-var objd63e17960 = {
+var objd63e18073 = {
   label: " Word-to-DITA XSLT Transformation Parameters",
   href: "user_docs/d4p-users-guide/word2dita/transform-parameters.html", 
   target:"contentwin"
 };
-var d63e17960 = new YAHOO.widget.TextNode(objd63e17960, d63e17217, false);
+var d63e18073 = new YAHOO.widget.TextNode(objd63e18073, d63e17330, false);
 
-var objd63e18016 = {
+var objd63e18129 = {
   label: " Word-to-DITA Ant Parameters",
   href: "user_docs/d4p-users-guide/word2dita/word2dita-ant-parameters.html", 
   target:"contentwin"
 };
-var d63e18016 = new YAHOO.widget.TextNode(objd63e18016, d63e17217, false);
+var d63e18129 = new YAHOO.widget.TextNode(objd63e18129, d63e17330, false);
 
-var objd63e18072 = {
+var objd63e18185 = {
   label: "Chapter 13.  The DITA-to-InDesign Transformation Framework",
   href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
   target:"contentwin"
 };
-var d63e18072 = new YAHOO.widget.TextNode(objd63e18072, d63e17185, false);
+var d63e18185 = new YAHOO.widget.TextNode(objd63e18185, d63e17298, false);
 
-var objd63e18116 = {
+var objd63e18229 = {
   label: " Overview of the InDesign and InCopy Products",
   href: "user_docs/d4p-users-guide/dita2indesign/indesign-product-overview.html", 
   target:"contentwin"
 };
-var d63e18116 = new YAHOO.widget.TextNode(objd63e18116, d63e18072, false);
+var d63e18229 = new YAHOO.widget.TextNode(objd63e18229, d63e18185, false);
 
-var objd63e18172 = {
+var objd63e18285 = {
   label: " Generating InCopy Articles from DITA Topics",
   href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles-from-topics.html", 
   target:"contentwin"
 };
-var d63e18172 = new YAHOO.widget.TextNode(objd63e18172, d63e18072, false);
+var d63e18285 = new YAHOO.widget.TextNode(objd63e18285, d63e18185, false);
 
-var objd63e18228 = {
+var objd63e18341 = {
   label: " Generating InDesign from DITA Using the Toolkit Plugin",
   href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-plugin-usage.html", 
   target:"contentwin"
 };
-var d63e18228 = new YAHOO.widget.TextNode(objd63e18228, d63e18072, false);
+var d63e18341 = new YAHOO.widget.TextNode(objd63e18341, d63e18185, false);
 
-var objd63e18284 = {
+var objd63e18397 = {
   label: " Configuring the DITA-to-InDesign Transformation",
   href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles.html", 
   target:"contentwin"
 };
-var d63e18284 = new YAHOO.widget.TextNode(objd63e18284, d63e18072, false);
+var d63e18397 = new YAHOO.widget.TextNode(objd63e18397, d63e18185, false);
 
-var objd63e18340 = {
+var objd63e18453 = {
   label: " Mapping XML Elements to InDesign Paragraph and Character Styles",
   href: "user_docs/d4p-users-guide/dita2indesign/mapping-paragraphs-to-indesign-styles.html", 
   target:"contentwin"
 };
-var d63e18340 = new YAHOO.widget.TextNode(objd63e18340, d63e18284, false);
+var d63e18453 = new YAHOO.widget.TextNode(objd63e18453, d63e18397, false);
 
-var objd63e18409 = {
+var objd63e18522 = {
   label: " Specifying InDesign Grouped Style Names",
   href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
   target:"contentwin"
 };
-var d63e18409 = new YAHOO.widget.TextNode(objd63e18409, d63e18284, false);
+var d63e18522 = new YAHOO.widget.TextNode(objd63e18522, d63e18397, false);
 
-var objd63e18478 = {
+var objd63e18591 = {
   label: " Preparing InDesign Templates for DITA-to-InDesign Use",
   href: "user_docs/d4p-users-guide/dita2indesign/indesign-optimization.html", 
   target:"contentwin"
 };
-var d63e18478 = new YAHOO.widget.TextNode(objd63e18478, d63e18072, false);
+var d63e18591 = new YAHOO.widget.TextNode(objd63e18591, d63e18185, false);
 
-var objd63e18535 = {
+var objd63e18648 = {
   label: " Colophon",
   href: "user_docs/d4p-users-guide/backmatter/colophon.html", 
   target:"contentwin"
 };
-var d63e18535 = new YAHOO.widget.TextNode(objd63e18535, root, false);
-var d204e2619 = new YAHOO.widget.TextNode("Index", root, false);
-var d204e2620 = new YAHOO.widget.TextNode("@", d204e2619, false);
-var d204e2624 = new YAHOO.widget.TextNode("@font-face CSS instruction", d204e2620, false);
+var d63e18648 = new YAHOO.widget.TextNode(objd63e18648, root, false);
+var d206e2649 = new YAHOO.widget.TextNode("Index", root, false);
+var d206e2650 = new YAHOO.widget.TextNode("@", d206e2649, false);
+var d206e2654 = new YAHOO.widget.TextNode("@font-face CSS instruction", d206e2650, false);
 
-var objd204e2631 = {
+var objd206e2661 = {
     label: "[Using Fonts from CSS Style Sheets (@font-face)]",
     href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
     target:"contentwin"
 };
-var d204e2631 = new YAHOO.widget.TextNode(objd204e2631, d204e2624, false);
-var d204e2635 = new YAHOO.widget.TextNode("A", d204e2619, false);
-var d204e2639 = new YAHOO.widget.TextNode("ant parameters", d204e2635, false);
-var d204e2648 = new YAHOO.widget.TextNode("cover.graphic.file", d204e2639, false);
+var d206e2661 = new YAHOO.widget.TextNode(objd206e2661, d206e2654, false);
+var d206e2665 = new YAHOO.widget.TextNode("A", d206e2649, false);
+var d206e2669 = new YAHOO.widget.TextNode("ant parameters", d206e2665, false);
+var d206e2678 = new YAHOO.widget.TextNode("cover.graphic.file", d206e2669, false);
 
-var objd204e2655 = {
+var objd206e2685 = {
     label: "[cover.graphic.file Ant parameter]",
     href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
     target:"contentwin"
 };
-var d204e2655 = new YAHOO.widget.TextNode(objd204e2655, d204e2648, false);
-var d204e2659 = new YAHOO.widget.TextNode("html2.file.organization.strategy", d204e2639, false);
+var d206e2685 = new YAHOO.widget.TextNode(objd206e2685, d206e2678, false);
+var d206e2689 = new YAHOO.widget.TextNode("html2.file.organization.strategy", d206e2669, false);
 
-var objd204e2666 = {
+var objd206e2696 = {
     label: "[html2.file.organization.strategy Ant parameter]",
     href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
     target:"contentwin"
 };
-var d204e2666 = new YAHOO.widget.TextNode(objd204e2666, d204e2659, false);
-var d204e2670 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc", d204e2639, false);
+var d206e2696 = new YAHOO.widget.TextNode(objd206e2696, d206e2689, false);
+var d206e2700 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc", d206e2669, false);
 
-var objd204e2677 = {
+var objd206e2707 = {
     label: "[html2.generate.dynamic.toc Ant parameter]",
     href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
     target:"contentwin"
 };
-var d204e2677 = new YAHOO.widget.TextNode(objd204e2677, d204e2670, false);
-var d204e2681 = new YAHOO.widget.TextNode("html2.generate.frameset", d204e2639, false);
+var d206e2707 = new YAHOO.widget.TextNode(objd206e2707, d206e2700, false);
+var d206e2711 = new YAHOO.widget.TextNode("html2.generate.frameset", d206e2669, false);
 
-var objd204e2688 = {
+var objd206e2718 = {
     label: "[html2.generate.frameset Ant parameter]",
     href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
     target:"contentwin"
 };
-var d204e2688 = new YAHOO.widget.TextNode(objd204e2688, d204e2681, false);
-var d204e2692 = new YAHOO.widget.TextNode("html2.generate.static.toc", d204e2639, false);
+var d206e2718 = new YAHOO.widget.TextNode(objd206e2718, d206e2711, false);
+var d206e2722 = new YAHOO.widget.TextNode("html2.generate.static.toc", d206e2669, false);
 
-var objd204e2699 = {
+var objd206e2729 = {
     label: "[html2.generate.static.toc Ant parameter]",
     href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
     target:"contentwin"
 };
-var d204e2699 = new YAHOO.widget.TextNode(objd204e2699, d204e2692, false);
-var d204e2703 = new YAHOO.widget.TextNode("kindlegen.executable", d204e2639, false);
+var d206e2729 = new YAHOO.widget.TextNode(objd206e2729, d206e2722, false);
+var d206e2733 = new YAHOO.widget.TextNode("kindlegen.executable", d206e2669, false);
 
-var objd204e2710 = {
+var objd206e2740 = {
     label: "[kindlegen.executable Ant parameter]",
     href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
     target:"contentwin"
 };
-var d204e2710 = new YAHOO.widget.TextNode(objd204e2710, d204e2703, false);
-var d204e2714 = new YAHOO.widget.TextNode("C", d204e2619, false);
-var d204e2718 = new YAHOO.widget.TextNode("classification domain", d204e2714, false);
+var d206e2740 = new YAHOO.widget.TextNode(objd206e2740, d206e2733, false);
+var d206e2744 = new YAHOO.widget.TextNode("B", d206e2649, false);
+var d206e2748 = new YAHOO.widget.TextNode("built-in CSS", d206e2744, false);
 
-var objd204e2725 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e2725 = new YAHOO.widget.TextNode(objd204e2725, d204e2718, false);
-var d204e2729 = new YAHOO.widget.TextNode("collected data", d204e2714, false);
-
-var objd204e2737 = {
-    label: "[Numbering Things: Collected Data and Enumeration]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/enumeration.html", 
-    target:"contentwin"
-};
-var d204e2737 = new YAHOO.widget.TextNode(objd204e2737, d204e2729, false);
-var d204e2740 = new YAHOO.widget.TextNode("cover", d204e2714, false);
-var d204e2749 = new YAHOO.widget.TextNode("generating", d204e2740, false);
-
-var objd204e2756 = {
-    label: "[cover.graphic.file Ant parameter]",
-    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
-    target:"contentwin"
-};
-var d204e2756 = new YAHOO.widget.TextNode(objd204e2756, d204e2749, false);
-var d204e2760 = new YAHOO.widget.TextNode("graphic for", d204e2740, false);
-
-var objd204e2767 = {
-    label: "[Creating Cover Graphics and Covers]",
-    href: "user_docs/d4p-users-guide/epub-plugin/creating-cover-graphics.html", 
-    target:"contentwin"
-};
-var d204e2767 = new YAHOO.widget.TextNode(objd204e2767, d204e2760, false);
-var d204e2771 = new YAHOO.widget.TextNode("cover.graphic.file ant parameter", d204e2714, false);
-
-var objd204e2778 = {
-    label: "[cover.graphic.file Ant parameter]",
-    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
-    target:"contentwin"
-};
-var d204e2778 = new YAHOO.widget.TextNode(objd204e2778, d204e2771, false);
-var d204e2782 = new YAHOO.widget.TextNode("css", d204e2714, false);
-var d204e2791 = new YAHOO.widget.TextNode("@font-face instructions", d204e2782, false);
-
-var objd204e2798 = {
-    label: "[Using Fonts from CSS Style Sheets (@font-face)]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e2798 = new YAHOO.widget.TextNode(objd204e2798, d204e2791, false);
-var d204e2802 = new YAHOO.widget.TextNode("custom", d204e2782, false);
-
-var objd204e2809 = {
+var objd206e2755 = {
     label: "[Using Custom CSS Style Sheets]",
     href: "user_docs/d4p-users-guide/epub-plugin/using-custom-css.html", 
     target:"contentwin"
 };
-var d204e2809 = new YAHOO.widget.TextNode(objd204e2809, d204e2802, false);
-var d204e2813 = new YAHOO.widget.TextNode("D", d204e2619, false);
-var d204e2817 = new YAHOO.widget.TextNode("data collection", d204e2813, false);
-var d204e2826 = new YAHOO.widget.TextNode("overview", d204e2817, false);
+var d206e2755 = new YAHOO.widget.TextNode(objd206e2755, d206e2748, false);
+var d206e2759 = new YAHOO.widget.TextNode("C", d206e2649, false);
+var d206e2763 = new YAHOO.widget.TextNode("classification domain", d206e2759, false);
 
-var objd204e2833 = {
-    label: "[Data Collection Processing Phase]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
-    target:"contentwin"
-};
-var d204e2833 = new YAHOO.widget.TextNode(objd204e2833, d204e2826, false);
-var d204e2837 = new YAHOO.widget.TextNode("DITA-to-InDesign", d204e2813, false);
-
-var objd204e2844 = {
-    label: "[Generating InDesign from DITA Using the Toolkit Plugin]",
-    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-plugin-usage.html", 
-    target:"contentwin"
-};
-var d204e2844 = new YAHOO.widget.TextNode(objd204e2844, d204e2837, false);
-var d204e2848 = new YAHOO.widget.TextNode("domain modules", d204e2813, false);
-
-var objd204e2855 = {
-    label: "[DITA For Publishers Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/domain-modules-overview.html", 
-    target:"contentwin"
-};
-var d204e2855 = new YAHOO.widget.TextNode(objd204e2855, d204e2848, false);
-var d204e2859 = new YAHOO.widget.TextNode("domains", d204e2813, false);
-var d204e2878 = new YAHOO.widget.TextNode("classification", d204e2859, false);
-
-var objd204e2885 = {
+var objd206e2770 = {
     label: "[Topic Domains]",
     href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
     target:"contentwin"
 };
-var d204e2885 = new YAHOO.widget.TextNode(objd204e2885, d204e2878, false);
-var d204e2889 = new YAHOO.widget.TextNode("enumeration", d204e2859, false);
+var d206e2770 = new YAHOO.widget.TextNode(objd206e2770, d206e2763, false);
+var d206e2774 = new YAHOO.widget.TextNode("collected data", d206e2759, false);
 
-var objd204e2896 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+var objd206e2782 = {
+    label: "[Numbering Things: Collected Data and Enumeration]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/enumeration.html", 
     target:"contentwin"
 };
-var d204e2896 = new YAHOO.widget.TextNode(objd204e2896, d204e2889, false);
-var d204e2900 = new YAHOO.widget.TextNode("formatting", d204e2859, false);
+var d206e2782 = new YAHOO.widget.TextNode(objd206e2782, d206e2774, false);
+var d206e2785 = new YAHOO.widget.TextNode("cover", d206e2759, false);
+var d206e2794 = new YAHOO.widget.TextNode("generating", d206e2785, false);
 
-var objd204e2907 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e2907 = new YAHOO.widget.TextNode(objd204e2907, d204e2900, false);
-var d204e2911 = new YAHOO.widget.TextNode("publication content", d204e2859, false);
-
-var objd204e2918 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e2918 = new YAHOO.widget.TextNode(objd204e2918, d204e2911, false);
-var d204e2922 = new YAHOO.widget.TextNode("topic", d204e2859, false);
-
-var objd204e2929 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e2929 = new YAHOO.widget.TextNode(objd204e2929, d204e2922, false);
-var d204e2933 = new YAHOO.widget.TextNode("verse", d204e2859, false);
-
-var objd204e2940 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e2940 = new YAHOO.widget.TextNode(objd204e2940, d204e2933, false);
-var d204e2944 = new YAHOO.widget.TextNode("E", d204e2619, false);
-var d204e2948 = new YAHOO.widget.TextNode("elements in context", d204e2944, false);
-var d204e2957 = new YAHOO.widget.TextNode("mapping to InDesign styles", d204e2948, false);
-
-var objd204e2964 = {
-    label: "[Mapping XML Elements to InDesign Paragraph and Character Styles]",
-    href: "user_docs/d4p-users-guide/dita2indesign/mapping-paragraphs-to-indesign-styles.html", 
-    target:"contentwin"
-};
-var d204e2964 = new YAHOO.widget.TextNode(objd204e2964, d204e2957, false);
-var d204e2968 = new YAHOO.widget.TextNode("embedding", d204e2944, false);
-var d204e2977 = new YAHOO.widget.TextNode("fonts", d204e2968, false);
-
-var objd204e2984 = {
-    label: "[Embedding Fonts in Your EPUB]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e2984 = new YAHOO.widget.TextNode(objd204e2984, d204e2977, false);
-var d204e2988 = new YAHOO.widget.TextNode("enumeration", d204e2944, false);
-var d204e2997 = new YAHOO.widget.TextNode("customizing for HTML output", d204e2988, false);
-
-var objd204e3004 = {
-    label: "[Extending and Customizing Enumeration Processing (Numbering)]",
-    href: "user_docs/d4p-users-guide/html2-plugin/customizing-enumeration.html", 
-    target:"contentwin"
-};
-var d204e3004 = new YAHOO.widget.TextNode(objd204e3004, d204e2997, false);
-var d204e3008 = new YAHOO.widget.TextNode("data collection\n        for", d204e2988, false);
-
-var objd204e3015 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3015 = new YAHOO.widget.TextNode(objd204e3015, d204e3008, false);
-var d204e3019 = new YAHOO.widget.TextNode("enumeration domain", d204e2944, false);
-
-var objd204e3026 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e3026 = new YAHOO.widget.TextNode(objd204e3026, d204e3019, false);
-var d204e3030 = new YAHOO.widget.TextNode("EPUB", d204e2944, false);
-var d204e3041 = new YAHOO.widget.TextNode("generating", d204e3030, false);
-var d204e3050 = new YAHOO.widget.TextNode("with OxygenXML", d204e3041, false);
-
-var objd204e3057 = {
-    label: "[Generating EPUBs From OxygenXML]",
-    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e3057 = new YAHOO.widget.TextNode(objd204e3057, d204e3050, false);
-var d204e3061 = new YAHOO.widget.TextNode("extending", d204e2944, false);
-var d204e3070 = new YAHOO.widget.TextNode("plugins", d204e3061, false);
-
-var objd204e3077 = {
-    label: "[Extending the DITA for Publishers Transformations]",
-    href: "user_docs/d4p-users-guide/topics/extending-d4p-plugins.html", 
-    target:"contentwin"
-};
-var d204e3077 = new YAHOO.widget.TextNode(objd204e3077, d204e3070, false);
-var d204e3081 = new YAHOO.widget.TextNode("extension points", d204e2944, false);
-var d204e3090 = new YAHOO.widget.TextNode("data\n      collection", d204e3081, false);
-
-var objd204e3097 = {
-    label: "[Data Collection Processing Phase]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
-    target:"contentwin"
-};
-var d204e3097 = new YAHOO.widget.TextNode(objd204e3097, d204e3090, false);
-var d204e3101 = new YAHOO.widget.TextNode("F", d204e2619, false);
-var d204e3105 = new YAHOO.widget.TextNode("font", d204e3101, false);
-var d204e3114 = new YAHOO.widget.TextNode("embedding in EPUB", d204e3105, false);
-
-var objd204e3121 = {
-    label: "[Embedding Fonts in Your EPUB]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3121 = new YAHOO.widget.TextNode(objd204e3121, d204e3114, false);
-var d204e3125 = new YAHOO.widget.TextNode("manifest (for embedding)", d204e3105, false);
-
-var objd204e3132 = {
-    label: "[Embedding Fonts in Your EPUB]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3132 = new YAHOO.widget.TextNode(objd204e3132, d204e3125, false);
-
-var objd204e3135 = {
-    label: "[The Font Manifest File]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3135 = new YAHOO.widget.TextNode(objd204e3135, d204e3125, false);
-var d204e3139 = new YAHOO.widget.TextNode("using from CSS", d204e3105, false);
-
-var objd204e3146 = {
-    label: "[Using Fonts from CSS Style Sheets (@font-face)]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3146 = new YAHOO.widget.TextNode(objd204e3146, d204e3139, false);
-var d204e3150 = new YAHOO.widget.TextNode("font embedding", d204e3101, false);
-
-var objd204e3157 = {
-    label: "[Embedding Fonts in Your EPUB]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3157 = new YAHOO.widget.TextNode(objd204e3157, d204e3150, false);
-var d204e3161 = new YAHOO.widget.TextNode("formatting domain", d204e3101, false);
-
-var objd204e3168 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e3168 = new YAHOO.widget.TextNode(objd204e3168, d204e3161, false);
-var d204e3172 = new YAHOO.widget.TextNode("frameset", d204e3101, false);
-var d204e3181 = new YAHOO.widget.TextNode("generating", d204e3172, false);
-
-var objd204e3188 = {
-    label: "[html2.generate.frameset Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
-    target:"contentwin"
-};
-var d204e3188 = new YAHOO.widget.TextNode(objd204e3188, d204e3181, false);
-var d204e3192 = new YAHOO.widget.TextNode("G", d204e2619, false);
-var d204e3196 = new YAHOO.widget.TextNode("glossary entries", d204e3192, false);
-var d204e3205 = new YAHOO.widget.TextNode("grouping and\n        sorting", d204e3196, false);
-
-var objd204e3212 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3212 = new YAHOO.widget.TextNode(objd204e3212, d204e3205, false);
-var d204e3216 = new YAHOO.widget.TextNode("graphic map", d204e3192, false);
-var d204e3225 = new YAHOO.widget.TextNode("extending", d204e3216, false);
-
-var objd204e3232 = {
-    label: "[Graphic Map Generation]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
-    target:"contentwin"
-};
-var d204e3232 = new YAHOO.widget.TextNode(objd204e3232, d204e3225, false);
-var d204e3236 = new YAHOO.widget.TextNode("generating", d204e3216, false);
-
-var objd204e3243 = {
-    label: "[Graphic Map Generation]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
-    target:"contentwin"
-};
-var d204e3243 = new YAHOO.widget.TextNode(objd204e3243, d204e3236, false);
-var d204e3247 = new YAHOO.widget.TextNode("graphics", d204e3192, false);
-var d204e3256 = new YAHOO.widget.TextNode("cover", d204e3247, false);
-
-var objd204e3263 = {
-    label: "[Creating Cover Graphics and Covers]",
-    href: "user_docs/d4p-users-guide/epub-plugin/creating-cover-graphics.html", 
-    target:"contentwin"
-};
-var d204e3263 = new YAHOO.widget.TextNode(objd204e3263, d204e3256, false);
-var d204e3267 = new YAHOO.widget.TextNode("including in output", d204e3247, false);
-
-var objd204e3274 = {
-    label: "[Graphic Map Generation]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
-    target:"contentwin"
-};
-var d204e3274 = new YAHOO.widget.TextNode(objd204e3274, d204e3267, false);
-var d204e3278 = new YAHOO.widget.TextNode("grouped InDesign styles", d204e3192, false);
-
-var objd204e3285 = {
-    label: "[Specifying InDesign Grouped Style Names]",
-    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
-    target:"contentwin"
-};
-var d204e3285 = new YAHOO.widget.TextNode(objd204e3285, d204e3278, false);
-var d204e3289 = new YAHOO.widget.TextNode("H", d204e2619, false);
-var d204e3293 = new YAHOO.widget.TextNode("HTML", d204e3289, false);
-var d204e3302 = new YAHOO.widget.TextNode("generating", d204e3293, false);
-
-var objd204e3309 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3309 = new YAHOO.widget.TextNode(objd204e3309, d204e3302, false);
-
-var objd204e3312 = {
-    label: "[HTML2 Plugin]",
-    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3312 = new YAHOO.widget.TextNode(objd204e3312, d204e3302, false);
-
-var objd204e3315 = {
-    label: "[Replacing the index.html file]",
-    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
-    target:"contentwin"
-};
-var d204e3315 = new YAHOO.widget.TextNode(objd204e3315, d204e3302, false);
-var d204e3319 = new YAHOO.widget.TextNode("HTML5", d204e3293, false);
-
-var objd204e3326 = {
-    label: "[HTML5 Plugin]",
-    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3326 = new YAHOO.widget.TextNode(objd204e3326, d204e3319, false);
-
-var objd204e3329 = {
-    label: "[Replacing the index.html file]",
-    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
-    target:"contentwin"
-};
-var d204e3329 = new YAHOO.widget.TextNode(objd204e3329, d204e3319, false);
-var d204e3333 = new YAHOO.widget.TextNode("html2.file.organization.strategy ant parameter", d204e3289, false);
-
-var objd204e3340 = {
-    label: "[html2.file.organization.strategy Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
-    target:"contentwin"
-};
-var d204e3340 = new YAHOO.widget.TextNode(objd204e3340, d204e3333, false);
-var d204e3344 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc ant parameter", d204e3289, false);
-
-var objd204e3351 = {
-    label: "[html2.generate.dynamic.toc Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
-    target:"contentwin"
-};
-var d204e3351 = new YAHOO.widget.TextNode(objd204e3351, d204e3344, false);
-var d204e3355 = new YAHOO.widget.TextNode("html2.generate.frameset ant parameter", d204e3289, false);
-
-var objd204e3362 = {
-    label: "[html2.generate.frameset Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
-    target:"contentwin"
-};
-var d204e3362 = new YAHOO.widget.TextNode(objd204e3362, d204e3355, false);
-var d204e3366 = new YAHOO.widget.TextNode("html2.generate.static.toc ant parameter", d204e3289, false);
-
-var objd204e3373 = {
-    label: "[html2.generate.static.toc Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
-    target:"contentwin"
-};
-var d204e3373 = new YAHOO.widget.TextNode(objd204e3373, d204e3366, false);
-var d204e3377 = new YAHOO.widget.TextNode("HTML2 Toolkit plugin", d204e3289, false);
-
-var objd204e3384 = {
-    label: "[HTML2 Plugin]",
-    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3384 = new YAHOO.widget.TextNode(objd204e3384, d204e3377, false);
-var d204e3388 = new YAHOO.widget.TextNode("HTML5 Toolkit plugin", d204e3289, false);
-
-var objd204e3395 = {
-    label: "[HTML5 Plugin]",
-    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3395 = new YAHOO.widget.TextNode(objd204e3395, d204e3388, false);
-
-var objd204e3398 = {
-    label: "[Replacing the index.html file]",
-    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
-    target:"contentwin"
-};
-var d204e3398 = new YAHOO.widget.TextNode(objd204e3398, d204e3388, false);
-var d204e3402 = new YAHOO.widget.TextNode("I", d204e2619, false);
-var d204e3406 = new YAHOO.widget.TextNode("InCopy", d204e3402, false);
-var d204e3413 = new YAHOO.widget.TextNode("generating articles from maps and topics", d204e3406, false);
-
-var objd204e3420 = {
-    label: "[Configuring the DITA-to-InDesign Transformation]",
-    href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles.html", 
-    target:"contentwin"
-};
-var d204e3420 = new YAHOO.widget.TextNode(objd204e3420, d204e3413, false);
-var d204e3424 = new YAHOO.widget.TextNode("InDesign", d204e3402, false);
-var d204e3435 = new YAHOO.widget.TextNode("generating from DITA", d204e3424, false);
-
-var objd204e3442 = {
-    label: "[The DITA-to-InDesign Transformation Framework]",
-    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
-    target:"contentwin"
-};
-var d204e3442 = new YAHOO.widget.TextNode(objd204e3442, d204e3435, false);
-var d204e3446 = new YAHOO.widget.TextNode("group styles", d204e3424, false);
-
-var objd204e3453 = {
-    label: "[Specifying InDesign Grouped Style Names]",
-    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
-    target:"contentwin"
-};
-var d204e3453 = new YAHOO.widget.TextNode(objd204e3453, d204e3446, false);
-var d204e3457 = new YAHOO.widget.TextNode("optimizing for automation", d204e3424, false);
-
-var objd204e3464 = {
-    label: "[Preparing InDesign Templates for DITA-to-InDesign Use]",
-    href: "user_docs/d4p-users-guide/dita2indesign/indesign-optimization.html", 
-    target:"contentwin"
-};
-var d204e3464 = new YAHOO.widget.TextNode(objd204e3464, d204e3457, false);
-var d204e3468 = new YAHOO.widget.TextNode("styles, grouped", d204e3424, false);
-
-var objd204e3475 = {
-    label: "[Specifying InDesign Grouped Style Names]",
-    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
-    target:"contentwin"
-};
-var d204e3475 = new YAHOO.widget.TextNode(objd204e3475, d204e3468, false);
-var d204e3479 = new YAHOO.widget.TextNode("transformation framework", d204e3424, false);
-
-var objd204e3486 = {
-    label: "[The DITA-to-InDesign Transformation Framework]",
-    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
-    target:"contentwin"
-};
-var d204e3486 = new YAHOO.widget.TextNode(objd204e3486, d204e3479, false);
-var d204e3490 = new YAHOO.widget.TextNode("InDesign styles", d204e3402, false);
-var d204e3499 = new YAHOO.widget.TextNode("mapping elements in context to", d204e3490, false);
-
-var objd204e3506 = {
-    label: "[Mapping XML Elements to InDesign Paragraph and Character Styles]",
-    href: "user_docs/d4p-users-guide/dita2indesign/mapping-paragraphs-to-indesign-styles.html", 
-    target:"contentwin"
-};
-var d204e3506 = new YAHOO.widget.TextNode(objd204e3506, d204e3499, false);
-var d204e3510 = new YAHOO.widget.TextNode("index", d204e3402, false);
-var d204e3519 = new YAHOO.widget.TextNode("generation of", d204e3510, false);
-
-var objd204e3526 = {
-    label: "[Index Generation]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/index-generation.html", 
-    target:"contentwin"
-};
-var d204e3526 = new YAHOO.widget.TextNode(objd204e3526, d204e3519, false);
-var d204e3530 = new YAHOO.widget.TextNode("index.html, generating", d204e3402, false);
-
-var objd204e3537 = {
-    label: "[HTML5 Plugin]",
-    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3537 = new YAHOO.widget.TextNode(objd204e3537, d204e3530, false);
-
-var objd204e3540 = {
-    label: "[Replacing the index.html file]",
-    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
-    target:"contentwin"
-};
-var d204e3540 = new YAHOO.widget.TextNode(objd204e3540, d204e3530, false);
-var d204e3544 = new YAHOO.widget.TextNode("index generation", d204e3402, false);
-
-var objd204e3551 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3551 = new YAHOO.widget.TextNode(objd204e3551, d204e3544, false);
-var d204e3555 = new YAHOO.widget.TextNode("installing toolkit plugins", d204e3402, false);
-
-var objd204e3562 = {
-    label: "[Installing the Toolkit Plugins]",
-    href: "user_docs/d4p-users-guide/tasks/plugin-installation.html", 
-    target:"contentwin"
-};
-var d204e3562 = new YAHOO.widget.TextNode(objd204e3562, d204e3555, false);
-var d204e3566 = new YAHOO.widget.TextNode("K", d204e2619, false);
-var d204e3570 = new YAHOO.widget.TextNode("kindle book", d204e3566, false);
-var d204e3579 = new YAHOO.widget.TextNode("generating", d204e3570, false);
-
-var objd204e3586 = {
-    label: "[kindlegen.executable Ant parameter]",
-    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
-    target:"contentwin"
-};
-var d204e3586 = new YAHOO.widget.TextNode(objd204e3586, d204e3579, false);
-var d204e3590 = new YAHOO.widget.TextNode("Kindle book", d204e3566, false);
-var d204e3601 = new YAHOO.widget.TextNode("generating", d204e3590, false);
-var d204e3610 = new YAHOO.widget.TextNode("with OxygenXML", d204e3601, false);
-
-var objd204e3617 = {
-    label: "[Generating Kindle Books From OxygenXML]",
-    href: "user_docs/d4p-users-guide/epub-plugin/generating-kindle-books-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e3617 = new YAHOO.widget.TextNode(objd204e3617, d204e3610, false);
-var d204e3621 = new YAHOO.widget.TextNode("kindlegen", d204e3566, false);
-
-var objd204e3628 = {
-    label: "[Setting Up The kindlegen Command-Line Utility]",
-    href: "user_docs/d4p-users-guide/epub-plugin/setting-up-kindlegen.html", 
-    target:"contentwin"
-};
-var d204e3628 = new YAHOO.widget.TextNode(objd204e3628, d204e3621, false);
-var d204e3632 = new YAHOO.widget.TextNode("kindlegen.executable ant parameter", d204e3566, false);
-
-var objd204e3639 = {
-    label: "[kindlegen.executable Ant parameter]",
-    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
-    target:"contentwin"
-};
-var d204e3639 = new YAHOO.widget.TextNode(objd204e3639, d204e3632, false);
-var d204e3643 = new YAHOO.widget.TextNode("M", d204e2619, false);
-var d204e3647 = new YAHOO.widget.TextNode("manifest", d204e3643, false);
-
-var objd204e3654 = {
-    label: "[Embedding Fonts in Your EPUB]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3654 = new YAHOO.widget.TextNode(objd204e3654, d204e3647, false);
-
-var objd204e3657 = {
-    label: "[The Font Manifest File]",
-    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
-    target:"contentwin"
-};
-var d204e3657 = new YAHOO.widget.TextNode(objd204e3657, d204e3647, false);
-var d204e3661 = new YAHOO.widget.TextNode("map-driven processing", d204e3643, false);
-var d204e3670 = new YAHOO.widget.TextNode("data\n          collection", d204e3661, false);
-
-var objd204e3677 = {
-    label: "[Data Collection Processing Phase]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
-    target:"contentwin"
-};
-var d204e3677 = new YAHOO.widget.TextNode(objd204e3677, d204e3670, false);
-var d204e3681 = new YAHOO.widget.TextNode("generating HTML", d204e3661, false);
-
-var objd204e3688 = {
-    label: "[HTML2 Plugin]",
-    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3688 = new YAHOO.widget.TextNode(objd204e3688, d204e3681, false);
-
-var objd204e3691 = {
-    label: "[HTML5 Plugin]",
-    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
-    target:"contentwin"
-};
-var d204e3691 = new YAHOO.widget.TextNode(objd204e3691, d204e3681, false);
-
-var objd204e3694 = {
-    label: "[Replacing the index.html file]",
-    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
-    target:"contentwin"
-};
-var d204e3694 = new YAHOO.widget.TextNode(objd204e3694, d204e3681, false);
-var d204e3698 = new YAHOO.widget.TextNode("using", d204e3661, false);
-
-var objd204e3705 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3705 = new YAHOO.widget.TextNode(objd204e3705, d204e3698, false);
-var d204e3709 = new YAHOO.widget.TextNode("maps", d204e3643, false);
-var d204e3718 = new YAHOO.widget.TextNode("processing topics in terms\n          of", d204e3709, false);
-
-var objd204e3725 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3725 = new YAHOO.widget.TextNode(objd204e3725, d204e3718, false);
-var d204e3729 = new YAHOO.widget.TextNode("metadata", d204e3643, false);
-var d204e3740 = new YAHOO.widget.TextNode("creating", d204e3729, false);
-
-var objd204e3747 = {
-    label: "[Creating Arbitrary EPUB OPF Metadata]",
-    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
-    target:"contentwin"
-};
-var d204e3747 = new YAHOO.widget.TextNode(objd204e3747, d204e3740, false);
-var d204e3751 = new YAHOO.widget.TextNode("OPF", d204e3729, false);
-
-var objd204e3758 = {
-    label: "[Creating Arbitrary EPUB OPF Metadata]",
-    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
-    target:"contentwin"
-};
-var d204e3758 = new YAHOO.widget.TextNode(objd204e3758, d204e3751, false);
-var d204e3762 = new YAHOO.widget.TextNode("MS Word", d204e3643, false);
-var d204e3771 = new YAHOO.widget.TextNode("to-DITA transformation framework", d204e3762, false);
-
-var objd204e3778 = {
-    label: "[The DITA For Publishers Word to DITA and DITA to InDesign Tools]",
-    href: "user_docs/d4p-users-guide/transform-frameworks-part/transform-frameworks-part.html", 
-    target:"contentwin"
-};
-var d204e3778 = new YAHOO.widget.TextNode(objd204e3778, d204e3771, false);
-var d204e3783 = new YAHOO.widget.TextNode("N", d204e2619, false);
-var d204e3787 = new YAHOO.widget.TextNode("numbering", d204e3783, false);
-var d204e3796 = new YAHOO.widget.TextNode("of things with\n        titles", d204e3787, false);
-
-var objd204e3803 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e3803 = new YAHOO.widget.TextNode(objd204e3803, d204e3796, false);
-var d204e3807 = new YAHOO.widget.TextNode("O", d204e2619, false);
-var d204e3811 = new YAHOO.widget.TextNode("Open Toolkit plugins", d204e3807, false);
-var d204e3820 = new YAHOO.widget.TextNode("Word-to-DITA transform", d204e3811, false);
-
-var objd204e3827 = {
-    label: "[Generating DITA from Documents (Word-to-DITA Transformation Framework)]",
-    href: "user_docs/d4p-users-guide/word2dita/word-to-dita-plugin.html", 
-    target:"contentwin"
-};
-var d204e3827 = new YAHOO.widget.TextNode(objd204e3827, d204e3820, false);
-var d204e3831 = new YAHOO.widget.TextNode("OPF metadata", d204e3807, false);
-var d204e3840 = new YAHOO.widget.TextNode("creating", d204e3831, false);
-
-var objd204e3847 = {
-    label: "[Creating Arbitrary EPUB OPF Metadata]",
-    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
-    target:"contentwin"
-};
-var d204e3847 = new YAHOO.widget.TextNode(objd204e3847, d204e3840, false);
-var d204e3851 = new YAHOO.widget.TextNode("output file organization strategy", d204e3807, false);
-var d204e3860 = new YAHOO.widget.TextNode("generating", d204e3851, false);
-
-var objd204e3867 = {
-    label: "[html2.file.organization.strategy Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
-    target:"contentwin"
-};
-var d204e3867 = new YAHOO.widget.TextNode(objd204e3867, d204e3860, false);
-var d204e3871 = new YAHOO.widget.TextNode("overriding base processing", d204e3807, false);
-
-var objd204e3878 = {
-    label: "[Implementing Overrides for Common Processing]",
-    href: "user_docs/d4p-users-guide/epub-plugin/overriding-base-processing.html", 
-    target:"contentwin"
-};
-var d204e3878 = new YAHOO.widget.TextNode(objd204e3878, d204e3871, false);
-var d204e3882 = new YAHOO.widget.TextNode("OxygenXML", d204e3807, false);
-var d204e3891 = new YAHOO.widget.TextNode("generating EPUBs with", d204e3882, false);
-
-var objd204e3898 = {
-    label: "[Generating EPUBs From OxygenXML]",
-    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e3898 = new YAHOO.widget.TextNode(objd204e3898, d204e3891, false);
-var d204e3902 = new YAHOO.widget.TextNode("generating Kindle books with", d204e3882, false);
-
-var objd204e3909 = {
-    label: "[Generating Kindle Books From OxygenXML]",
-    href: "user_docs/d4p-users-guide/epub-plugin/generating-kindle-books-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e3909 = new YAHOO.widget.TextNode(objd204e3909, d204e3902, false);
-var d204e3913 = new YAHOO.widget.TextNode("running Word-to-DITA transform with", d204e3882, false);
-
-var objd204e3920 = {
-    label: "[Generating DITA From Within OxygenXML]",
-    href: "user_docs/docx2dita_guide_and_reference/word2dita-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e3920 = new YAHOO.widget.TextNode(objd204e3920, d204e3913, false);
-var d204e3924 = new YAHOO.widget.TextNode("P", d204e2619, false);
-var d204e3928 = new YAHOO.widget.TextNode("parameters", d204e3924, false);
-var d204e3939 = new YAHOO.widget.TextNode("ant", d204e3928, false);
-var d204e3948 = new YAHOO.widget.TextNode("cover.graphic.file", d204e3939, false);
-
-var objd204e3955 = {
+var objd206e2801 = {
     label: "[cover.graphic.file Ant parameter]",
     href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
     target:"contentwin"
 };
-var d204e3955 = new YAHOO.widget.TextNode(objd204e3955, d204e3948, false);
-var d204e3959 = new YAHOO.widget.TextNode("html2.file.organization.strategy", d204e3939, false);
+var d206e2801 = new YAHOO.widget.TextNode(objd206e2801, d206e2794, false);
+var d206e2805 = new YAHOO.widget.TextNode("graphic for", d206e2785, false);
 
-var objd204e3966 = {
-    label: "[html2.file.organization.strategy Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
+var objd206e2812 = {
+    label: "[Creating Cover Graphics and Covers]",
+    href: "user_docs/d4p-users-guide/epub-plugin/creating-cover-graphics.html", 
     target:"contentwin"
 };
-var d204e3966 = new YAHOO.widget.TextNode(objd204e3966, d204e3959, false);
-var d204e3970 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc", d204e3939, false);
+var d206e2812 = new YAHOO.widget.TextNode(objd206e2812, d206e2805, false);
+var d206e2816 = new YAHOO.widget.TextNode("cover.graphic.file ant parameter", d206e2759, false);
 
-var objd204e3977 = {
-    label: "[html2.generate.dynamic.toc Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
+var objd206e2823 = {
+    label: "[cover.graphic.file Ant parameter]",
+    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
     target:"contentwin"
 };
-var d204e3977 = new YAHOO.widget.TextNode(objd204e3977, d204e3970, false);
-var d204e3981 = new YAHOO.widget.TextNode("html2.generate.frameset", d204e3939, false);
+var d206e2823 = new YAHOO.widget.TextNode(objd206e2823, d206e2816, false);
+var d206e2827 = new YAHOO.widget.TextNode("css", d206e2759, false);
+var d206e2836 = new YAHOO.widget.TextNode("@font-face instructions", d206e2827, false);
 
-var objd204e3988 = {
-    label: "[html2.generate.frameset Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
+var objd206e2843 = {
+    label: "[Using Fonts from CSS Style Sheets (@font-face)]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
     target:"contentwin"
 };
-var d204e3988 = new YAHOO.widget.TextNode(objd204e3988, d204e3981, false);
-var d204e3992 = new YAHOO.widget.TextNode("html2.generate.static.toc", d204e3939, false);
+var d206e2843 = new YAHOO.widget.TextNode(objd206e2843, d206e2836, false);
+var d206e2847 = new YAHOO.widget.TextNode("custom", d206e2827, false);
 
-var objd204e3999 = {
-    label: "[html2.generate.static.toc Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
+var objd206e2854 = {
+    label: "[Using Custom CSS Style Sheets]",
+    href: "user_docs/d4p-users-guide/epub-plugin/using-custom-css.html", 
     target:"contentwin"
 };
-var d204e3999 = new YAHOO.widget.TextNode(objd204e3999, d204e3992, false);
-var d204e4003 = new YAHOO.widget.TextNode("kindlegen.executable", d204e3939, false);
+var d206e2854 = new YAHOO.widget.TextNode(objd206e2854, d206e2847, false);
+var d206e2858 = new YAHOO.widget.TextNode("D", d206e2649, false);
+var d206e2862 = new YAHOO.widget.TextNode("data collection", d206e2858, false);
+var d206e2871 = new YAHOO.widget.TextNode("overview", d206e2862, false);
 
-var objd204e4010 = {
-    label: "[kindlegen.executable Ant parameter]",
-    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
+var objd206e2878 = {
+    label: "[Data Collection Processing Phase]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
     target:"contentwin"
 };
-var d204e4010 = new YAHOO.widget.TextNode(objd204e4010, d204e4003, false);
-var d204e4014 = new YAHOO.widget.TextNode("plugins", d204e3924, false);
-var d204e4023 = new YAHOO.widget.TextNode("extending", d204e4014, false);
+var d206e2878 = new YAHOO.widget.TextNode(objd206e2878, d206e2871, false);
+var d206e2882 = new YAHOO.widget.TextNode("DITA-to-InDesign", d206e2858, false);
 
-var objd204e4030 = {
-    label: "[Extending the DITA for Publishers Transformations]",
-    href: "user_docs/d4p-users-guide/topics/extending-d4p-plugins.html", 
+var objd206e2889 = {
+    label: "[Generating InDesign from DITA Using the Toolkit Plugin]",
+    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-plugin-usage.html", 
     target:"contentwin"
 };
-var d204e4030 = new YAHOO.widget.TextNode(objd204e4030, d204e4023, false);
-var d204e4034 = new YAHOO.widget.TextNode("publication content domain", d204e3924, false);
+var d206e2889 = new YAHOO.widget.TextNode(objd206e2889, d206e2882, false);
+var d206e2893 = new YAHOO.widget.TextNode("domain modules", d206e2858, false);
 
-var objd204e4041 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e4041 = new YAHOO.widget.TextNode(objd204e4041, d204e4034, false);
-var d204e4045 = new YAHOO.widget.TextNode("R", d204e2619, false);
-var d204e4049 = new YAHOO.widget.TextNode("release notes", d204e4045, false);
-var d204e4056 = new YAHOO.widget.TextNode("Version 0.9.10", d204e4049, false);
-
-var objd204e4063 = {
-    label: "[Release Notes: Version 0.9.10]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.10.html", 
-    target:"contentwin"
-};
-var d204e4063 = new YAHOO.widget.TextNode(objd204e4063, d204e4056, false);
-var d204e4067 = new YAHOO.widget.TextNode("Version 0.9.11", d204e4049, false);
-
-var objd204e4074 = {
-    label: "[Release Notes: Version 0.9.11]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.11.html", 
-    target:"contentwin"
-};
-var d204e4074 = new YAHOO.widget.TextNode(objd204e4074, d204e4067, false);
-var d204e4078 = new YAHOO.widget.TextNode("Version 0.9.12", d204e4049, false);
-
-var objd204e4085 = {
-    label: "[Release Notes: Version 0.9.12]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.12.html", 
-    target:"contentwin"
-};
-var d204e4085 = new YAHOO.widget.TextNode(objd204e4085, d204e4078, false);
-var d204e4089 = new YAHOO.widget.TextNode("Version 0.9.13", d204e4049, false);
-
-var objd204e4096 = {
-    label: "[Release Notes: Version 0.9.13]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.13.html", 
-    target:"contentwin"
-};
-var d204e4096 = new YAHOO.widget.TextNode(objd204e4096, d204e4089, false);
-var d204e4100 = new YAHOO.widget.TextNode("Version 0.9.14", d204e4049, false);
-
-var objd204e4107 = {
-    label: "[Release Notes: Version 0.9.14]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.14.html", 
-    target:"contentwin"
-};
-var d204e4107 = new YAHOO.widget.TextNode(objd204e4107, d204e4100, false);
-var d204e4111 = new YAHOO.widget.TextNode("Version 0.9.15", d204e4049, false);
-
-var objd204e4118 = {
-    label: "[Release Notes: Version 0.9.15]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.15.html", 
-    target:"contentwin"
-};
-var d204e4118 = new YAHOO.widget.TextNode(objd204e4118, d204e4111, false);
-var d204e4122 = new YAHOO.widget.TextNode("Version 0.9.16", d204e4049, false);
-
-var objd204e4129 = {
-    label: "[Release Notes: Version 0.9.16]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.16.html", 
-    target:"contentwin"
-};
-var d204e4129 = new YAHOO.widget.TextNode(objd204e4129, d204e4122, false);
-var d204e4133 = new YAHOO.widget.TextNode("Version\n            0.9.18", d204e4049, false);
-
-var objd204e4140 = {
-    label: "[Release Notes: Version 0.9.18]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.18.html", 
-    target:"contentwin"
-};
-var d204e4140 = new YAHOO.widget.TextNode(objd204e4140, d204e4133, false);
-var d204e4144 = new YAHOO.widget.TextNode("Version 0.9.19", d204e4049, false);
-
-var objd204e4151 = {
-    label: "[Release Notes: Version 0.9.19RC12]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.19.html", 
-    target:"contentwin"
-};
-var d204e4151 = new YAHOO.widget.TextNode(objd204e4151, d204e4144, false);
-var d204e4155 = new YAHOO.widget.TextNode("Version 0.9.9", d204e4049, false);
-
-var objd204e4162 = {
-    label: "[Release Notes: Version 0.9.9]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.9.html", 
-    target:"contentwin"
-};
-var d204e4162 = new YAHOO.widget.TextNode(objd204e4162, d204e4155, false);
-var d204e4166 = new YAHOO.widget.TextNode("Version 1.0.0RC00", d204e4049, false);
-
-var objd204e4173 = {
-    label: "[Release Notes: Version 1.0.0RC00 (github version)]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0.html", 
-    target:"contentwin"
-};
-var d204e4173 = new YAHOO.widget.TextNode(objd204e4173, d204e4166, false);
-var d204e4178 = new YAHOO.widget.TextNode("Version 1.0.0RC17", d204e4049, false);
-
-var objd204e4185 = {
-    label: "[Release Notes: Version 1.0.0RC17]",
-    href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC17.html", 
-    target:"contentwin"
-};
-var d204e4185 = new YAHOO.widget.TextNode(objd204e4185, d204e4178, false);
-var d204e4189 = new YAHOO.widget.TextNode("S", d204e2619, false);
-var d204e4193 = new YAHOO.widget.TextNode("styles", d204e4189, false);
-var d204e4202 = new YAHOO.widget.TextNode("grouped", d204e4193, false);
-
-var objd204e4209 = {
-    label: "[Specifying InDesign Grouped Style Names]",
-    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
-    target:"contentwin"
-};
-var d204e4209 = new YAHOO.widget.TextNode(objd204e4209, d204e4202, false);
-var d204e4213 = new YAHOO.widget.TextNode("T", d204e2619, false);
-var d204e4217 = new YAHOO.widget.TextNode("table of contents", d204e4213, false);
-var d204e4226 = new YAHOO.widget.TextNode("generating", d204e4217, false);
-
-var objd204e4233 = {
-    label: "[html2.generate.dynamic.toc Ant parameter]",
-    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
-    target:"contentwin"
-};
-var d204e4233 = new YAHOO.widget.TextNode(objd204e4233, d204e4226, false);
-var d204e4237 = new YAHOO.widget.TextNode("toolkit plugins", d204e4213, false);
-var d204e4246 = new YAHOO.widget.TextNode("installing", d204e4237, false);
-
-var objd204e4253 = {
-    label: "[Installing the Toolkit Plugins]",
-    href: "user_docs/d4p-users-guide/tasks/plugin-installation.html", 
-    target:"contentwin"
-};
-var d204e4253 = new YAHOO.widget.TextNode(objd204e4253, d204e4246, false);
-var d204e4257 = new YAHOO.widget.TextNode("topic domains", d204e4213, false);
-
-var objd204e4264 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e4264 = new YAHOO.widget.TextNode(objd204e4264, d204e4257, false);
-var d204e4268 = new YAHOO.widget.TextNode("topics", d204e4213, false);
-var d204e4277 = new YAHOO.widget.TextNode("generating InCopy articles from", d204e4268, false);
-
-var objd204e4284 = {
-    label: "[Configuring the DITA-to-InDesign Transformation]",
-    href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles.html", 
-    target:"contentwin"
-};
-var d204e4284 = new YAHOO.widget.TextNode(objd204e4284, d204e4277, false);
-var d204e4288 = new YAHOO.widget.TextNode("processing in map\n          context", d204e4268, false);
-
-var objd204e4295 = {
-    label: "[Map-Driven Processing]",
-    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
-    target:"contentwin"
-};
-var d204e4295 = new YAHOO.widget.TextNode(objd204e4295, d204e4288, false);
-var d204e4299 = new YAHOO.widget.TextNode("transformation parameters", d204e4213, false);
-var d204e4306 = new YAHOO.widget.TextNode("word-to-dita transformation", d204e4299, false);
-
-var objd204e4313 = {
-    label: "[Word-to-DITA XSLT Transformation Parameters]",
-    href: "user_docs/d4p-users-guide/word2dita/transform-parameters.html", 
-    target:"contentwin"
-};
-var d204e4313 = new YAHOO.widget.TextNode(objd204e4313, d204e4306, false);
-var d204e4317 = new YAHOO.widget.TextNode("transformation scenario", d204e4213, false);
-
-var objd204e4324 = {
-    label: "[Generating EPUBs From OxygenXML]",
-    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
-    target:"contentwin"
-};
-var d204e4324 = new YAHOO.widget.TextNode(objd204e4324, d204e4317, false);
-var d204e4328 = new YAHOO.widget.TextNode("troubleshooting", d204e4213, false);
-
-var objd204e4335 = {
-    label: "[Troubleshooting the Word-to-DITA Process]",
-    href: "user_docs/d4p-users-guide/word2dita/troubleshooting-word2dita.html", 
-    target:"contentwin"
-};
-var d204e4335 = new YAHOO.widget.TextNode(objd204e4335, d204e4328, false);
-var d204e4339 = new YAHOO.widget.TextNode("tutorials", d204e4213, false);
-var d204e4348 = new YAHOO.widget.TextNode("word-to-DITA video tutorial", d204e4339, false);
-
-var objd204e4355 = {
-    label: "[Word-to-DITA Style-to-Tag Mapping Video Tutorial]",
-    href: "user_docs/d4p-users-guide/word2dita/word2dita-video-tutorial-01.html", 
-    target:"contentwin"
-};
-var d204e4355 = new YAHOO.widget.TextNode(objd204e4355, d204e4348, false);
-var d204e4359 = new YAHOO.widget.TextNode("Typefi", d204e4213, false);
-
-var objd204e4366 = {
-    label: "[The DITA-to-InDesign Transformation Framework]",
-    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
-    target:"contentwin"
-};
-var d204e4366 = new YAHOO.widget.TextNode(objd204e4366, d204e4359, false);
-var d204e4370 = new YAHOO.widget.TextNode("V", d204e2619, false);
-var d204e4374 = new YAHOO.widget.TextNode("verse domain", d204e4370, false);
-
-var objd204e4381 = {
-    label: "[Topic Domains]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
-    target:"contentwin"
-};
-var d204e4381 = new YAHOO.widget.TextNode(objd204e4381, d204e4374, false);
-var d204e4385 = new YAHOO.widget.TextNode("vocabulary", d204e4370, false);
-
-var objd204e4392 = {
-    label: "[The DITA For Publishers Markup Vocabulary]",
-    href: "user_docs/d4p-users-guide/vocabulary-part/vocabulary-part.html", 
-    target:"contentwin"
-};
-var d204e4392 = new YAHOO.widget.TextNode(objd204e4392, d204e4385, false);
-var d204e4396 = new YAHOO.widget.TextNode("vocabulary modules", d204e4370, false);
-var d204e4405 = new YAHOO.widget.TextNode("domain", d204e4396, false);
-
-var objd204e4412 = {
+var objd206e2900 = {
     label: "[DITA For Publishers Domains]",
     href: "user_docs/d4p-users-guide/vocabulary-part/domain-modules-overview.html", 
     target:"contentwin"
 };
-var d204e4412 = new YAHOO.widget.TextNode(objd204e4412, d204e4405, false);
-var d204e4416 = new YAHOO.widget.TextNode("W", d204e2619, false);
-var d204e4420 = new YAHOO.widget.TextNode("word-to-dita Toolkit plugin", d204e4416, false);
-var d204e4429 = new YAHOO.widget.TextNode("Ant script for", d204e4420, false);
+var d206e2900 = new YAHOO.widget.TextNode(objd206e2900, d206e2893, false);
+var d206e2904 = new YAHOO.widget.TextNode("domains", d206e2858, false);
+var d206e2923 = new YAHOO.widget.TextNode("classification", d206e2904, false);
 
-var objd204e4436 = {
-    label: "[Setting Up an Ant Script for Running the Word-to-DITA Transform]",
-    href: "user_docs/d4p-users-guide/word2dita/word-to-dita-ant-task.html", 
+var objd206e2930 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
     target:"contentwin"
 };
-var d204e4436 = new YAHOO.widget.TextNode(objd204e4436, d204e4429, false);
-var d204e4440 = new YAHOO.widget.TextNode("word-to-DITA transform", d204e4416, false);
-var d204e4449 = new YAHOO.widget.TextNode("video tutorial", d204e4440, false);
+var d206e2930 = new YAHOO.widget.TextNode(objd206e2930, d206e2923, false);
+var d206e2934 = new YAHOO.widget.TextNode("enumeration", d206e2904, false);
 
-var objd204e4456 = {
-    label: "[Word-to-DITA Style-to-Tag Mapping Video Tutorial]",
-    href: "user_docs/d4p-users-guide/word2dita/word2dita-video-tutorial-01.html", 
+var objd206e2941 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
     target:"contentwin"
 };
-var d204e4456 = new YAHOO.widget.TextNode(objd204e4456, d204e4449, false);
-var d204e4460 = new YAHOO.widget.TextNode("Word-to-DITA transform", d204e4416, false);
-var d204e4469 = new YAHOO.widget.TextNode("from OxygenXML", d204e4460, false);
+var d206e2941 = new YAHOO.widget.TextNode(objd206e2941, d206e2934, false);
+var d206e2945 = new YAHOO.widget.TextNode("formatting", d206e2904, false);
 
-var objd204e4476 = {
-    label: "[Generating DITA From Within OxygenXML]",
-    href: "user_docs/docx2dita_guide_and_reference/word2dita-from-oxygen.html", 
+var objd206e2952 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
     target:"contentwin"
 };
-var d204e4476 = new YAHOO.widget.TextNode(objd204e4476, d204e4469, false);
-var d204e4480 = new YAHOO.widget.TextNode("troubleshooting", d204e4460, false);
+var d206e2952 = new YAHOO.widget.TextNode(objd206e2952, d206e2945, false);
+var d206e2956 = new YAHOO.widget.TextNode("publication content", d206e2904, false);
 
-var objd204e4487 = {
-    label: "[Troubleshooting the Word-to-DITA Process]",
-    href: "user_docs/d4p-users-guide/word2dita/troubleshooting-word2dita.html", 
+var objd206e2963 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
     target:"contentwin"
 };
-var d204e4487 = new YAHOO.widget.TextNode(objd204e4487, d204e4480, false);
-var d204e4491 = new YAHOO.widget.TextNode("Word-to-DITA transformation framework", d204e4416, false);
-var d204e4500 = new YAHOO.widget.TextNode("Open Toolkit plugin for", d204e4491, false);
+var d206e2963 = new YAHOO.widget.TextNode(objd206e2963, d206e2956, false);
+var d206e2967 = new YAHOO.widget.TextNode("topic", d206e2904, false);
 
-var objd204e4507 = {
+var objd206e2974 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e2974 = new YAHOO.widget.TextNode(objd206e2974, d206e2967, false);
+var d206e2978 = new YAHOO.widget.TextNode("verse", d206e2904, false);
+
+var objd206e2985 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e2985 = new YAHOO.widget.TextNode(objd206e2985, d206e2978, false);
+var d206e2989 = new YAHOO.widget.TextNode("E", d206e2649, false);
+var d206e2993 = new YAHOO.widget.TextNode("elements in context", d206e2989, false);
+var d206e3002 = new YAHOO.widget.TextNode("mapping to InDesign styles", d206e2993, false);
+
+var objd206e3009 = {
+    label: "[Mapping XML Elements to InDesign Paragraph and Character Styles]",
+    href: "user_docs/d4p-users-guide/dita2indesign/mapping-paragraphs-to-indesign-styles.html", 
+    target:"contentwin"
+};
+var d206e3009 = new YAHOO.widget.TextNode(objd206e3009, d206e3002, false);
+var d206e3013 = new YAHOO.widget.TextNode("embedding", d206e2989, false);
+var d206e3022 = new YAHOO.widget.TextNode("fonts", d206e3013, false);
+
+var objd206e3029 = {
+    label: "[Embedding Fonts in Your EPUB]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3029 = new YAHOO.widget.TextNode(objd206e3029, d206e3022, false);
+var d206e3033 = new YAHOO.widget.TextNode("enumeration", d206e2989, false);
+var d206e3042 = new YAHOO.widget.TextNode("customizing for HTML output", d206e3033, false);
+
+var objd206e3049 = {
+    label: "[Extending and Customizing Enumeration Processing (Numbering)]",
+    href: "user_docs/d4p-users-guide/html2-plugin/customizing-enumeration.html", 
+    target:"contentwin"
+};
+var d206e3049 = new YAHOO.widget.TextNode(objd206e3049, d206e3042, false);
+var d206e3053 = new YAHOO.widget.TextNode("data collection\n        for", d206e3033, false);
+
+var objd206e3060 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3060 = new YAHOO.widget.TextNode(objd206e3060, d206e3053, false);
+var d206e3064 = new YAHOO.widget.TextNode("enumeration domain", d206e2989, false);
+
+var objd206e3071 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e3071 = new YAHOO.widget.TextNode(objd206e3071, d206e3064, false);
+var d206e3075 = new YAHOO.widget.TextNode("EPUB", d206e2989, false);
+var d206e3086 = new YAHOO.widget.TextNode("generating", d206e3075, false);
+var d206e3095 = new YAHOO.widget.TextNode("with OxygenXML", d206e3086, false);
+
+var objd206e3102 = {
+    label: "[Generating EPUBs From OxygenXML]",
+    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e3102 = new YAHOO.widget.TextNode(objd206e3102, d206e3095, false);
+var d206e3106 = new YAHOO.widget.TextNode("extending", d206e2989, false);
+var d206e3115 = new YAHOO.widget.TextNode("plugins", d206e3106, false);
+
+var objd206e3122 = {
+    label: "[Extending the DITA for Publishers Transformations]",
+    href: "user_docs/d4p-users-guide/topics/extending-d4p-plugins.html", 
+    target:"contentwin"
+};
+var d206e3122 = new YAHOO.widget.TextNode(objd206e3122, d206e3115, false);
+var d206e3126 = new YAHOO.widget.TextNode("extension points", d206e2989, false);
+var d206e3135 = new YAHOO.widget.TextNode("data\n      collection", d206e3126, false);
+
+var objd206e3142 = {
+    label: "[Data Collection Processing Phase]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
+    target:"contentwin"
+};
+var d206e3142 = new YAHOO.widget.TextNode(objd206e3142, d206e3135, false);
+var d206e3146 = new YAHOO.widget.TextNode("F", d206e2649, false);
+var d206e3150 = new YAHOO.widget.TextNode("font", d206e3146, false);
+var d206e3159 = new YAHOO.widget.TextNode("embedding in EPUB", d206e3150, false);
+
+var objd206e3166 = {
+    label: "[Embedding Fonts in Your EPUB]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3166 = new YAHOO.widget.TextNode(objd206e3166, d206e3159, false);
+var d206e3170 = new YAHOO.widget.TextNode("manifest (for embedding)", d206e3150, false);
+
+var objd206e3177 = {
+    label: "[Embedding Fonts in Your EPUB]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3177 = new YAHOO.widget.TextNode(objd206e3177, d206e3170, false);
+
+var objd206e3180 = {
+    label: "[The Font Manifest File]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3180 = new YAHOO.widget.TextNode(objd206e3180, d206e3170, false);
+var d206e3184 = new YAHOO.widget.TextNode("using from CSS", d206e3150, false);
+
+var objd206e3191 = {
+    label: "[Using Fonts from CSS Style Sheets (@font-face)]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3191 = new YAHOO.widget.TextNode(objd206e3191, d206e3184, false);
+var d206e3195 = new YAHOO.widget.TextNode("font embedding", d206e3146, false);
+
+var objd206e3202 = {
+    label: "[Embedding Fonts in Your EPUB]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3202 = new YAHOO.widget.TextNode(objd206e3202, d206e3195, false);
+var d206e3206 = new YAHOO.widget.TextNode("formatting domain", d206e3146, false);
+
+var objd206e3213 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e3213 = new YAHOO.widget.TextNode(objd206e3213, d206e3206, false);
+var d206e3217 = new YAHOO.widget.TextNode("frameset", d206e3146, false);
+var d206e3226 = new YAHOO.widget.TextNode("generating", d206e3217, false);
+
+var objd206e3233 = {
+    label: "[html2.generate.frameset Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
+    target:"contentwin"
+};
+var d206e3233 = new YAHOO.widget.TextNode(objd206e3233, d206e3226, false);
+var d206e3237 = new YAHOO.widget.TextNode("G", d206e2649, false);
+var d206e3241 = new YAHOO.widget.TextNode("glossary entries", d206e3237, false);
+var d206e3250 = new YAHOO.widget.TextNode("grouping and\n        sorting", d206e3241, false);
+
+var objd206e3257 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3257 = new YAHOO.widget.TextNode(objd206e3257, d206e3250, false);
+var d206e3261 = new YAHOO.widget.TextNode("graphic map", d206e3237, false);
+var d206e3270 = new YAHOO.widget.TextNode("extending", d206e3261, false);
+
+var objd206e3277 = {
+    label: "[Graphic Map Generation]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
+    target:"contentwin"
+};
+var d206e3277 = new YAHOO.widget.TextNode(objd206e3277, d206e3270, false);
+var d206e3281 = new YAHOO.widget.TextNode("generating", d206e3261, false);
+
+var objd206e3288 = {
+    label: "[Graphic Map Generation]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
+    target:"contentwin"
+};
+var d206e3288 = new YAHOO.widget.TextNode(objd206e3288, d206e3281, false);
+var d206e3292 = new YAHOO.widget.TextNode("graphics", d206e3237, false);
+var d206e3301 = new YAHOO.widget.TextNode("cover", d206e3292, false);
+
+var objd206e3308 = {
+    label: "[Creating Cover Graphics and Covers]",
+    href: "user_docs/d4p-users-guide/epub-plugin/creating-cover-graphics.html", 
+    target:"contentwin"
+};
+var d206e3308 = new YAHOO.widget.TextNode(objd206e3308, d206e3301, false);
+var d206e3312 = new YAHOO.widget.TextNode("including in output", d206e3292, false);
+
+var objd206e3319 = {
+    label: "[Graphic Map Generation]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
+    target:"contentwin"
+};
+var d206e3319 = new YAHOO.widget.TextNode(objd206e3319, d206e3312, false);
+var d206e3323 = new YAHOO.widget.TextNode("grouped InDesign styles", d206e3237, false);
+
+var objd206e3330 = {
+    label: "[Specifying InDesign Grouped Style Names]",
+    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
+    target:"contentwin"
+};
+var d206e3330 = new YAHOO.widget.TextNode(objd206e3330, d206e3323, false);
+var d206e3334 = new YAHOO.widget.TextNode("H", d206e2649, false);
+var d206e3338 = new YAHOO.widget.TextNode("HTML", d206e3334, false);
+var d206e3347 = new YAHOO.widget.TextNode("generating", d206e3338, false);
+
+var objd206e3354 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3354 = new YAHOO.widget.TextNode(objd206e3354, d206e3347, false);
+
+var objd206e3357 = {
+    label: "[HTML2 Plugin]",
+    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3357 = new YAHOO.widget.TextNode(objd206e3357, d206e3347, false);
+
+var objd206e3360 = {
+    label: "[Replacing the index.html file]",
+    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
+    target:"contentwin"
+};
+var d206e3360 = new YAHOO.widget.TextNode(objd206e3360, d206e3347, false);
+var d206e3364 = new YAHOO.widget.TextNode("HTML5", d206e3338, false);
+
+var objd206e3371 = {
+    label: "[HTML5 Plugin]",
+    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3371 = new YAHOO.widget.TextNode(objd206e3371, d206e3364, false);
+
+var objd206e3374 = {
+    label: "[Replacing the index.html file]",
+    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
+    target:"contentwin"
+};
+var d206e3374 = new YAHOO.widget.TextNode(objd206e3374, d206e3364, false);
+var d206e3378 = new YAHOO.widget.TextNode("html2.file.organization.strategy ant parameter", d206e3334, false);
+
+var objd206e3385 = {
+    label: "[html2.file.organization.strategy Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
+    target:"contentwin"
+};
+var d206e3385 = new YAHOO.widget.TextNode(objd206e3385, d206e3378, false);
+var d206e3389 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc ant parameter", d206e3334, false);
+
+var objd206e3396 = {
+    label: "[html2.generate.dynamic.toc Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
+    target:"contentwin"
+};
+var d206e3396 = new YAHOO.widget.TextNode(objd206e3396, d206e3389, false);
+var d206e3400 = new YAHOO.widget.TextNode("html2.generate.frameset ant parameter", d206e3334, false);
+
+var objd206e3407 = {
+    label: "[html2.generate.frameset Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
+    target:"contentwin"
+};
+var d206e3407 = new YAHOO.widget.TextNode(objd206e3407, d206e3400, false);
+var d206e3411 = new YAHOO.widget.TextNode("html2.generate.static.toc ant parameter", d206e3334, false);
+
+var objd206e3418 = {
+    label: "[html2.generate.static.toc Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
+    target:"contentwin"
+};
+var d206e3418 = new YAHOO.widget.TextNode(objd206e3418, d206e3411, false);
+var d206e3422 = new YAHOO.widget.TextNode("HTML2 Toolkit plugin", d206e3334, false);
+
+var objd206e3429 = {
+    label: "[HTML2 Plugin]",
+    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3429 = new YAHOO.widget.TextNode(objd206e3429, d206e3422, false);
+var d206e3433 = new YAHOO.widget.TextNode("HTML5 Toolkit plugin", d206e3334, false);
+
+var objd206e3440 = {
+    label: "[HTML5 Plugin]",
+    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3440 = new YAHOO.widget.TextNode(objd206e3440, d206e3433, false);
+
+var objd206e3443 = {
+    label: "[Replacing the index.html file]",
+    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
+    target:"contentwin"
+};
+var d206e3443 = new YAHOO.widget.TextNode(objd206e3443, d206e3433, false);
+var d206e3447 = new YAHOO.widget.TextNode("I", d206e2649, false);
+var d206e3451 = new YAHOO.widget.TextNode("InCopy", d206e3447, false);
+var d206e3458 = new YAHOO.widget.TextNode("generating articles from maps and topics", d206e3451, false);
+
+var objd206e3465 = {
+    label: "[Configuring the DITA-to-InDesign Transformation]",
+    href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles.html", 
+    target:"contentwin"
+};
+var d206e3465 = new YAHOO.widget.TextNode(objd206e3465, d206e3458, false);
+var d206e3469 = new YAHOO.widget.TextNode("InDesign", d206e3447, false);
+var d206e3480 = new YAHOO.widget.TextNode("generating from DITA", d206e3469, false);
+
+var objd206e3487 = {
+    label: "[The DITA-to-InDesign Transformation Framework]",
+    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
+    target:"contentwin"
+};
+var d206e3487 = new YAHOO.widget.TextNode(objd206e3487, d206e3480, false);
+var d206e3491 = new YAHOO.widget.TextNode("group styles", d206e3469, false);
+
+var objd206e3498 = {
+    label: "[Specifying InDesign Grouped Style Names]",
+    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
+    target:"contentwin"
+};
+var d206e3498 = new YAHOO.widget.TextNode(objd206e3498, d206e3491, false);
+var d206e3502 = new YAHOO.widget.TextNode("optimizing for automation", d206e3469, false);
+
+var objd206e3509 = {
+    label: "[Preparing InDesign Templates for DITA-to-InDesign Use]",
+    href: "user_docs/d4p-users-guide/dita2indesign/indesign-optimization.html", 
+    target:"contentwin"
+};
+var d206e3509 = new YAHOO.widget.TextNode(objd206e3509, d206e3502, false);
+var d206e3513 = new YAHOO.widget.TextNode("styles, grouped", d206e3469, false);
+
+var objd206e3520 = {
+    label: "[Specifying InDesign Grouped Style Names]",
+    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
+    target:"contentwin"
+};
+var d206e3520 = new YAHOO.widget.TextNode(objd206e3520, d206e3513, false);
+var d206e3524 = new YAHOO.widget.TextNode("transformation framework", d206e3469, false);
+
+var objd206e3531 = {
+    label: "[The DITA-to-InDesign Transformation Framework]",
+    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
+    target:"contentwin"
+};
+var d206e3531 = new YAHOO.widget.TextNode(objd206e3531, d206e3524, false);
+var d206e3535 = new YAHOO.widget.TextNode("InDesign styles", d206e3447, false);
+var d206e3544 = new YAHOO.widget.TextNode("mapping elements in context to", d206e3535, false);
+
+var objd206e3551 = {
+    label: "[Mapping XML Elements to InDesign Paragraph and Character Styles]",
+    href: "user_docs/d4p-users-guide/dita2indesign/mapping-paragraphs-to-indesign-styles.html", 
+    target:"contentwin"
+};
+var d206e3551 = new YAHOO.widget.TextNode(objd206e3551, d206e3544, false);
+var d206e3555 = new YAHOO.widget.TextNode("index", d206e3447, false);
+var d206e3564 = new YAHOO.widget.TextNode("generation of", d206e3555, false);
+
+var objd206e3571 = {
+    label: "[Index Generation]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/index-generation.html", 
+    target:"contentwin"
+};
+var d206e3571 = new YAHOO.widget.TextNode(objd206e3571, d206e3564, false);
+var d206e3575 = new YAHOO.widget.TextNode("index.html, generating", d206e3447, false);
+
+var objd206e3582 = {
+    label: "[HTML5 Plugin]",
+    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3582 = new YAHOO.widget.TextNode(objd206e3582, d206e3575, false);
+
+var objd206e3585 = {
+    label: "[Replacing the index.html file]",
+    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
+    target:"contentwin"
+};
+var d206e3585 = new YAHOO.widget.TextNode(objd206e3585, d206e3575, false);
+var d206e3589 = new YAHOO.widget.TextNode("index generation", d206e3447, false);
+
+var objd206e3596 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3596 = new YAHOO.widget.TextNode(objd206e3596, d206e3589, false);
+var d206e3600 = new YAHOO.widget.TextNode("installing toolkit plugins", d206e3447, false);
+
+var objd206e3607 = {
+    label: "[Installing the Toolkit Plugins]",
+    href: "user_docs/d4p-users-guide/tasks/plugin-installation.html", 
+    target:"contentwin"
+};
+var d206e3607 = new YAHOO.widget.TextNode(objd206e3607, d206e3600, false);
+var d206e3611 = new YAHOO.widget.TextNode("K", d206e2649, false);
+var d206e3615 = new YAHOO.widget.TextNode("kindle book", d206e3611, false);
+var d206e3624 = new YAHOO.widget.TextNode("generating", d206e3615, false);
+
+var objd206e3631 = {
+    label: "[kindlegen.executable Ant parameter]",
+    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
+    target:"contentwin"
+};
+var d206e3631 = new YAHOO.widget.TextNode(objd206e3631, d206e3624, false);
+var d206e3635 = new YAHOO.widget.TextNode("Kindle book", d206e3611, false);
+var d206e3646 = new YAHOO.widget.TextNode("generating", d206e3635, false);
+var d206e3655 = new YAHOO.widget.TextNode("with OxygenXML", d206e3646, false);
+
+var objd206e3662 = {
+    label: "[Generating Kindle Books From OxygenXML]",
+    href: "user_docs/d4p-users-guide/epub-plugin/generating-kindle-books-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e3662 = new YAHOO.widget.TextNode(objd206e3662, d206e3655, false);
+var d206e3666 = new YAHOO.widget.TextNode("kindlegen", d206e3611, false);
+
+var objd206e3673 = {
+    label: "[Setting Up The kindlegen Command-Line Utility]",
+    href: "user_docs/d4p-users-guide/epub-plugin/setting-up-kindlegen.html", 
+    target:"contentwin"
+};
+var d206e3673 = new YAHOO.widget.TextNode(objd206e3673, d206e3666, false);
+var d206e3677 = new YAHOO.widget.TextNode("kindlegen.executable ant parameter", d206e3611, false);
+
+var objd206e3684 = {
+    label: "[kindlegen.executable Ant parameter]",
+    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
+    target:"contentwin"
+};
+var d206e3684 = new YAHOO.widget.TextNode(objd206e3684, d206e3677, false);
+var d206e3689 = new YAHOO.widget.TextNode("M", d206e2649, false);
+var d206e3693 = new YAHOO.widget.TextNode("manifest", d206e3689, false);
+
+var objd206e3700 = {
+    label: "[Embedding Fonts in Your EPUB]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3700 = new YAHOO.widget.TextNode(objd206e3700, d206e3693, false);
+
+var objd206e3703 = {
+    label: "[The Font Manifest File]",
+    href: "user_docs/d4p-users-guide/epub-plugin/embedding-fonts.html", 
+    target:"contentwin"
+};
+var d206e3703 = new YAHOO.widget.TextNode(objd206e3703, d206e3693, false);
+var d206e3707 = new YAHOO.widget.TextNode("map-driven processing", d206e3689, false);
+var d206e3716 = new YAHOO.widget.TextNode("data\n          collection", d206e3707, false);
+
+var objd206e3723 = {
+    label: "[Data Collection Processing Phase]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/data-collection.html", 
+    target:"contentwin"
+};
+var d206e3723 = new YAHOO.widget.TextNode(objd206e3723, d206e3716, false);
+var d206e3727 = new YAHOO.widget.TextNode("generating HTML", d206e3707, false);
+
+var objd206e3734 = {
+    label: "[HTML2 Plugin]",
+    href: "user_docs/d4p-users-guide/html2-plugin/html2-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3734 = new YAHOO.widget.TextNode(objd206e3734, d206e3727, false);
+
+var objd206e3737 = {
+    label: "[HTML5 Plugin]",
+    href: "user_docs/d4p-users-guide/html5-plugin/html5-toolkit-plugin.html", 
+    target:"contentwin"
+};
+var d206e3737 = new YAHOO.widget.TextNode(objd206e3737, d206e3727, false);
+
+var objd206e3740 = {
+    label: "[Replacing the index.html file]",
+    href: "user_docs/d4p-users-guide/html5-plugin/general/setting-an-index.html", 
+    target:"contentwin"
+};
+var d206e3740 = new YAHOO.widget.TextNode(objd206e3740, d206e3727, false);
+var d206e3744 = new YAHOO.widget.TextNode("using", d206e3707, false);
+
+var objd206e3751 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3751 = new YAHOO.widget.TextNode(objd206e3751, d206e3744, false);
+var d206e3755 = new YAHOO.widget.TextNode("maps", d206e3689, false);
+var d206e3764 = new YAHOO.widget.TextNode("processing topics in terms\n          of", d206e3755, false);
+
+var objd206e3771 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3771 = new YAHOO.widget.TextNode(objd206e3771, d206e3764, false);
+var d206e3775 = new YAHOO.widget.TextNode("metadata", d206e3689, false);
+var d206e3786 = new YAHOO.widget.TextNode("creating", d206e3775, false);
+
+var objd206e3793 = {
+    label: "[Creating Arbitrary EPUB OPF Metadata]",
+    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
+    target:"contentwin"
+};
+var d206e3793 = new YAHOO.widget.TextNode(objd206e3793, d206e3786, false);
+var d206e3797 = new YAHOO.widget.TextNode("OPF", d206e3775, false);
+
+var objd206e3804 = {
+    label: "[Creating Arbitrary EPUB OPF Metadata]",
+    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
+    target:"contentwin"
+};
+var d206e3804 = new YAHOO.widget.TextNode(objd206e3804, d206e3797, false);
+var d206e3808 = new YAHOO.widget.TextNode("MS Word", d206e3689, false);
+var d206e3817 = new YAHOO.widget.TextNode("to-DITA transformation framework", d206e3808, false);
+
+var objd206e3824 = {
+    label: "[The DITA For Publishers Word to DITA and DITA to InDesign Tools]",
+    href: "user_docs/d4p-users-guide/transform-frameworks-part/transform-frameworks-part.html", 
+    target:"contentwin"
+};
+var d206e3824 = new YAHOO.widget.TextNode(objd206e3824, d206e3817, false);
+var d206e3828 = new YAHOO.widget.TextNode("N", d206e2649, false);
+var d206e3832 = new YAHOO.widget.TextNode("numbering", d206e3828, false);
+var d206e3841 = new YAHOO.widget.TextNode("of things with\n        titles", d206e3832, false);
+
+var objd206e3848 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e3848 = new YAHOO.widget.TextNode(objd206e3848, d206e3841, false);
+var d206e3852 = new YAHOO.widget.TextNode("O", d206e2649, false);
+var d206e3856 = new YAHOO.widget.TextNode("Open Toolkit plugins", d206e3852, false);
+var d206e3865 = new YAHOO.widget.TextNode("Word-to-DITA transform", d206e3856, false);
+
+var objd206e3872 = {
     label: "[Generating DITA from Documents (Word-to-DITA Transformation Framework)]",
     href: "user_docs/d4p-users-guide/word2dita/word-to-dita-plugin.html", 
     target:"contentwin"
 };
-var d204e4507 = new YAHOO.widget.TextNode(objd204e4507, d204e4500, false);
-var d204e4511 = new YAHOO.widget.TextNode("X", d204e2619, false);
-var d204e4515 = new YAHOO.widget.TextNode("XSLT mode", d204e4511, false);
-var d204e4524 = new YAHOO.widget.TextNode("additional-graphic-refs", d204e4515, false);
+var d206e3872 = new YAHOO.widget.TextNode(objd206e3872, d206e3865, false);
+var d206e3876 = new YAHOO.widget.TextNode("OPF metadata", d206e3852, false);
+var d206e3885 = new YAHOO.widget.TextNode("creating", d206e3876, false);
 
-var objd204e4531 = {
+var objd206e3892 = {
+    label: "[Creating Arbitrary EPUB OPF Metadata]",
+    href: "user_docs/d4p-users-guide/epub-plugin/creating-opf-metadata.html", 
+    target:"contentwin"
+};
+var d206e3892 = new YAHOO.widget.TextNode(objd206e3892, d206e3885, false);
+var d206e3896 = new YAHOO.widget.TextNode("output file organization strategy", d206e3852, false);
+var d206e3905 = new YAHOO.widget.TextNode("generating", d206e3896, false);
+
+var objd206e3912 = {
+    label: "[html2.file.organization.strategy Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
+    target:"contentwin"
+};
+var d206e3912 = new YAHOO.widget.TextNode(objd206e3912, d206e3905, false);
+var d206e3916 = new YAHOO.widget.TextNode("overriding base processing", d206e3852, false);
+
+var objd206e3923 = {
+    label: "[Implementing Overrides for Common Processing]",
+    href: "user_docs/d4p-users-guide/epub-plugin/overriding-base-processing.html", 
+    target:"contentwin"
+};
+var d206e3923 = new YAHOO.widget.TextNode(objd206e3923, d206e3916, false);
+var d206e3927 = new YAHOO.widget.TextNode("OxygenXML", d206e3852, false);
+var d206e3936 = new YAHOO.widget.TextNode("generating EPUBs with", d206e3927, false);
+
+var objd206e3943 = {
+    label: "[Generating EPUBs From OxygenXML]",
+    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e3943 = new YAHOO.widget.TextNode(objd206e3943, d206e3936, false);
+var d206e3947 = new YAHOO.widget.TextNode("generating Kindle books with", d206e3927, false);
+
+var objd206e3954 = {
+    label: "[Generating Kindle Books From OxygenXML]",
+    href: "user_docs/d4p-users-guide/epub-plugin/generating-kindle-books-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e3954 = new YAHOO.widget.TextNode(objd206e3954, d206e3947, false);
+var d206e3958 = new YAHOO.widget.TextNode("running Word-to-DITA transform with", d206e3927, false);
+
+var objd206e3965 = {
+    label: "[Generating DITA From Within OxygenXML]",
+    href: "user_docs/docx2dita_guide_and_reference/word2dita-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e3965 = new YAHOO.widget.TextNode(objd206e3965, d206e3958, false);
+var d206e3969 = new YAHOO.widget.TextNode("P", d206e2649, false);
+var d206e3973 = new YAHOO.widget.TextNode("parameters", d206e3969, false);
+var d206e3984 = new YAHOO.widget.TextNode("ant", d206e3973, false);
+var d206e3993 = new YAHOO.widget.TextNode("cover.graphic.file", d206e3984, false);
+
+var objd206e4000 = {
+    label: "[cover.graphic.file Ant parameter]",
+    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-coverGraphicFile.html", 
+    target:"contentwin"
+};
+var d206e4000 = new YAHOO.widget.TextNode(objd206e4000, d206e3993, false);
+var d206e4004 = new YAHOO.widget.TextNode("html2.file.organization.strategy", d206e3984, false);
+
+var objd206e4011 = {
+    label: "[html2.file.organization.strategy Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-fileOrganizationStrategy.html", 
+    target:"contentwin"
+};
+var d206e4011 = new YAHOO.widget.TextNode(objd206e4011, d206e4004, false);
+var d206e4015 = new YAHOO.widget.TextNode("html2.generate.dynamic.toc", d206e3984, false);
+
+var objd206e4022 = {
+    label: "[html2.generate.dynamic.toc Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
+    target:"contentwin"
+};
+var d206e4022 = new YAHOO.widget.TextNode(objd206e4022, d206e4015, false);
+var d206e4026 = new YAHOO.widget.TextNode("html2.generate.frameset", d206e3984, false);
+
+var objd206e4033 = {
+    label: "[html2.generate.frameset Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateFrameset.html", 
+    target:"contentwin"
+};
+var d206e4033 = new YAHOO.widget.TextNode(objd206e4033, d206e4026, false);
+var d206e4037 = new YAHOO.widget.TextNode("html2.generate.static.toc", d206e3984, false);
+
+var objd206e4044 = {
+    label: "[html2.generate.static.toc Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateStaticToc.html", 
+    target:"contentwin"
+};
+var d206e4044 = new YAHOO.widget.TextNode(objd206e4044, d206e4037, false);
+var d206e4048 = new YAHOO.widget.TextNode("kindlegen.executable", d206e3984, false);
+
+var objd206e4055 = {
+    label: "[kindlegen.executable Ant parameter]",
+    href: "user_docs/d4p-users-guide/epub-plugin/reference/ant-parm-kindleGenExecutable.html", 
+    target:"contentwin"
+};
+var d206e4055 = new YAHOO.widget.TextNode(objd206e4055, d206e4048, false);
+var d206e4059 = new YAHOO.widget.TextNode("plugins", d206e3969, false);
+var d206e4068 = new YAHOO.widget.TextNode("extending", d206e4059, false);
+
+var objd206e4075 = {
+    label: "[Extending the DITA for Publishers Transformations]",
+    href: "user_docs/d4p-users-guide/topics/extending-d4p-plugins.html", 
+    target:"contentwin"
+};
+var d206e4075 = new YAHOO.widget.TextNode(objd206e4075, d206e4068, false);
+var d206e4079 = new YAHOO.widget.TextNode("publication content domain", d206e3969, false);
+
+var objd206e4086 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e4086 = new YAHOO.widget.TextNode(objd206e4086, d206e4079, false);
+var d206e4090 = new YAHOO.widget.TextNode("R", d206e2649, false);
+var d206e4094 = new YAHOO.widget.TextNode("release notes", d206e4090, false);
+var d206e4101 = new YAHOO.widget.TextNode("Version 0.9.10", d206e4094, false);
+
+var objd206e4108 = {
+    label: "[Release Notes: Version 0.9.10]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.10.html", 
+    target:"contentwin"
+};
+var d206e4108 = new YAHOO.widget.TextNode(objd206e4108, d206e4101, false);
+var d206e4112 = new YAHOO.widget.TextNode("Version 0.9.11", d206e4094, false);
+
+var objd206e4119 = {
+    label: "[Release Notes: Version 0.9.11]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.11.html", 
+    target:"contentwin"
+};
+var d206e4119 = new YAHOO.widget.TextNode(objd206e4119, d206e4112, false);
+var d206e4123 = new YAHOO.widget.TextNode("Version 0.9.12", d206e4094, false);
+
+var objd206e4130 = {
+    label: "[Release Notes: Version 0.9.12]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.12.html", 
+    target:"contentwin"
+};
+var d206e4130 = new YAHOO.widget.TextNode(objd206e4130, d206e4123, false);
+var d206e4134 = new YAHOO.widget.TextNode("Version 0.9.13", d206e4094, false);
+
+var objd206e4141 = {
+    label: "[Release Notes: Version 0.9.13]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.13.html", 
+    target:"contentwin"
+};
+var d206e4141 = new YAHOO.widget.TextNode(objd206e4141, d206e4134, false);
+var d206e4145 = new YAHOO.widget.TextNode("Version 0.9.14", d206e4094, false);
+
+var objd206e4152 = {
+    label: "[Release Notes: Version 0.9.14]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.14.html", 
+    target:"contentwin"
+};
+var d206e4152 = new YAHOO.widget.TextNode(objd206e4152, d206e4145, false);
+var d206e4156 = new YAHOO.widget.TextNode("Version 0.9.15", d206e4094, false);
+
+var objd206e4163 = {
+    label: "[Release Notes: Version 0.9.15]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.15.html", 
+    target:"contentwin"
+};
+var d206e4163 = new YAHOO.widget.TextNode(objd206e4163, d206e4156, false);
+var d206e4167 = new YAHOO.widget.TextNode("Version 0.9.16", d206e4094, false);
+
+var objd206e4174 = {
+    label: "[Release Notes: Version 0.9.16]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.16.html", 
+    target:"contentwin"
+};
+var d206e4174 = new YAHOO.widget.TextNode(objd206e4174, d206e4167, false);
+var d206e4178 = new YAHOO.widget.TextNode("Version\n            0.9.18", d206e4094, false);
+
+var objd206e4185 = {
+    label: "[Release Notes: Version 0.9.18]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.18.html", 
+    target:"contentwin"
+};
+var d206e4185 = new YAHOO.widget.TextNode(objd206e4185, d206e4178, false);
+var d206e4189 = new YAHOO.widget.TextNode("Version 0.9.19", d206e4094, false);
+
+var objd206e4196 = {
+    label: "[Release Notes: Version 0.9.19RC12]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.19.html", 
+    target:"contentwin"
+};
+var d206e4196 = new YAHOO.widget.TextNode(objd206e4196, d206e4189, false);
+var d206e4200 = new YAHOO.widget.TextNode("Version 0.9.9", d206e4094, false);
+
+var objd206e4207 = {
+    label: "[Release Notes: Version 0.9.9]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-0.9.9.html", 
+    target:"contentwin"
+};
+var d206e4207 = new YAHOO.widget.TextNode(objd206e4207, d206e4200, false);
+var d206e4211 = new YAHOO.widget.TextNode("Version 1.0.0RC00", d206e4094, false);
+
+var objd206e4218 = {
+    label: "[Release Notes: Version 1.0.0RC00 (github version)]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0.html", 
+    target:"contentwin"
+};
+var d206e4218 = new YAHOO.widget.TextNode(objd206e4218, d206e4211, false);
+var d206e4223 = new YAHOO.widget.TextNode("Version 1.0.0RC17", d206e4094, false);
+
+var objd206e4230 = {
+    label: "[Release Notes: Version 1.0.0RC17]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC17.html", 
+    target:"contentwin"
+};
+var d206e4230 = new YAHOO.widget.TextNode(objd206e4230, d206e4223, false);
+var d206e4234 = new YAHOO.widget.TextNode("Version 1.0.0RC19", d206e4094, false);
+
+var objd206e4241 = {
+    label: "[Release Notes: Version 1.0.0RC19]",
+    href: "user_docs/d4p-users-guide/release-notes/release-notes-1.0.0RC19.html", 
+    target:"contentwin"
+};
+var d206e4241 = new YAHOO.widget.TextNode(objd206e4241, d206e4234, false);
+var d206e4245 = new YAHOO.widget.TextNode("S", d206e2649, false);
+var d206e4249 = new YAHOO.widget.TextNode("styles", d206e4245, false);
+var d206e4258 = new YAHOO.widget.TextNode("grouped", d206e4249, false);
+
+var objd206e4265 = {
+    label: "[Specifying InDesign Grouped Style Names]",
+    href: "user_docs/d4p-users-guide/dita2indesign/grouped-style-name-syntax.html", 
+    target:"contentwin"
+};
+var d206e4265 = new YAHOO.widget.TextNode(objd206e4265, d206e4258, false);
+var d206e4269 = new YAHOO.widget.TextNode("T", d206e2649, false);
+var d206e4273 = new YAHOO.widget.TextNode("table of contents", d206e4269, false);
+var d206e4282 = new YAHOO.widget.TextNode("generating", d206e4273, false);
+
+var objd206e4289 = {
+    label: "[html2.generate.dynamic.toc Ant parameter]",
+    href: "user_docs/d4p-users-guide/html2-plugin/reference/ant-parm-generateDynamicToc.html", 
+    target:"contentwin"
+};
+var d206e4289 = new YAHOO.widget.TextNode(objd206e4289, d206e4282, false);
+var d206e4293 = new YAHOO.widget.TextNode("toolkit plugins", d206e4269, false);
+var d206e4302 = new YAHOO.widget.TextNode("installing", d206e4293, false);
+
+var objd206e4309 = {
+    label: "[Installing the Toolkit Plugins]",
+    href: "user_docs/d4p-users-guide/tasks/plugin-installation.html", 
+    target:"contentwin"
+};
+var d206e4309 = new YAHOO.widget.TextNode(objd206e4309, d206e4302, false);
+var d206e4313 = new YAHOO.widget.TextNode("topic domains", d206e4269, false);
+
+var objd206e4320 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e4320 = new YAHOO.widget.TextNode(objd206e4320, d206e4313, false);
+var d206e4324 = new YAHOO.widget.TextNode("topics", d206e4269, false);
+var d206e4333 = new YAHOO.widget.TextNode("generating InCopy articles from", d206e4324, false);
+
+var objd206e4340 = {
+    label: "[Configuring the DITA-to-InDesign Transformation]",
+    href: "user_docs/d4p-users-guide/dita2indesign/generating-incopy-articles.html", 
+    target:"contentwin"
+};
+var d206e4340 = new YAHOO.widget.TextNode(objd206e4340, d206e4333, false);
+var d206e4344 = new YAHOO.widget.TextNode("processing in map\n          context", d206e4324, false);
+
+var objd206e4351 = {
+    label: "[Map-Driven Processing]",
+    href: "user_docs/d4p-users-guide/map-driven-processing/map-driven-processing.html", 
+    target:"contentwin"
+};
+var d206e4351 = new YAHOO.widget.TextNode(objd206e4351, d206e4344, false);
+var d206e4355 = new YAHOO.widget.TextNode("transformation parameters", d206e4269, false);
+var d206e4362 = new YAHOO.widget.TextNode("word-to-dita transformation", d206e4355, false);
+
+var objd206e4369 = {
+    label: "[Word-to-DITA XSLT Transformation Parameters]",
+    href: "user_docs/d4p-users-guide/word2dita/transform-parameters.html", 
+    target:"contentwin"
+};
+var d206e4369 = new YAHOO.widget.TextNode(objd206e4369, d206e4362, false);
+var d206e4373 = new YAHOO.widget.TextNode("transformation scenario", d206e4269, false);
+
+var objd206e4380 = {
+    label: "[Generating EPUBs From OxygenXML]",
+    href: "user_docs/d4p-users-guide/epub-plugin/generating-epubs-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e4380 = new YAHOO.widget.TextNode(objd206e4380, d206e4373, false);
+var d206e4384 = new YAHOO.widget.TextNode("troubleshooting", d206e4269, false);
+
+var objd206e4391 = {
+    label: "[Troubleshooting the Word-to-DITA Process]",
+    href: "user_docs/d4p-users-guide/word2dita/troubleshooting-word2dita.html", 
+    target:"contentwin"
+};
+var d206e4391 = new YAHOO.widget.TextNode(objd206e4391, d206e4384, false);
+var d206e4395 = new YAHOO.widget.TextNode("tutorials", d206e4269, false);
+var d206e4404 = new YAHOO.widget.TextNode("word-to-DITA video tutorial", d206e4395, false);
+
+var objd206e4411 = {
+    label: "[Word-to-DITA Style-to-Tag Mapping Video Tutorial]",
+    href: "user_docs/d4p-users-guide/word2dita/word2dita-video-tutorial-01.html", 
+    target:"contentwin"
+};
+var d206e4411 = new YAHOO.widget.TextNode(objd206e4411, d206e4404, false);
+var d206e4415 = new YAHOO.widget.TextNode("Typefi", d206e4269, false);
+
+var objd206e4422 = {
+    label: "[The DITA-to-InDesign Transformation Framework]",
+    href: "user_docs/d4p-users-guide/dita2indesign/dita-to-indesign-framework-chapter.html", 
+    target:"contentwin"
+};
+var d206e4422 = new YAHOO.widget.TextNode(objd206e4422, d206e4415, false);
+var d206e4426 = new YAHOO.widget.TextNode("V", d206e2649, false);
+var d206e4430 = new YAHOO.widget.TextNode("verse domain", d206e4426, false);
+
+var objd206e4437 = {
+    label: "[Topic Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/topic-domains-overview.html", 
+    target:"contentwin"
+};
+var d206e4437 = new YAHOO.widget.TextNode(objd206e4437, d206e4430, false);
+var d206e4441 = new YAHOO.widget.TextNode("vocabulary", d206e4426, false);
+
+var objd206e4448 = {
+    label: "[The DITA For Publishers Markup Vocabulary]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/vocabulary-part.html", 
+    target:"contentwin"
+};
+var d206e4448 = new YAHOO.widget.TextNode(objd206e4448, d206e4441, false);
+var d206e4452 = new YAHOO.widget.TextNode("vocabulary modules", d206e4426, false);
+var d206e4461 = new YAHOO.widget.TextNode("domain", d206e4452, false);
+
+var objd206e4468 = {
+    label: "[DITA For Publishers Domains]",
+    href: "user_docs/d4p-users-guide/vocabulary-part/domain-modules-overview.html", 
+    target:"contentwin"
+};
+var d206e4468 = new YAHOO.widget.TextNode(objd206e4468, d206e4461, false);
+var d206e4472 = new YAHOO.widget.TextNode("W", d206e2649, false);
+var d206e4476 = new YAHOO.widget.TextNode("word-to-dita Toolkit plugin", d206e4472, false);
+var d206e4485 = new YAHOO.widget.TextNode("Ant script for", d206e4476, false);
+
+var objd206e4492 = {
+    label: "[Setting Up an Ant Script for Running the Word-to-DITA Transform]",
+    href: "user_docs/d4p-users-guide/word2dita/word-to-dita-ant-task.html", 
+    target:"contentwin"
+};
+var d206e4492 = new YAHOO.widget.TextNode(objd206e4492, d206e4485, false);
+var d206e4496 = new YAHOO.widget.TextNode("word-to-DITA transform", d206e4472, false);
+var d206e4505 = new YAHOO.widget.TextNode("video tutorial", d206e4496, false);
+
+var objd206e4512 = {
+    label: "[Word-to-DITA Style-to-Tag Mapping Video Tutorial]",
+    href: "user_docs/d4p-users-guide/word2dita/word2dita-video-tutorial-01.html", 
+    target:"contentwin"
+};
+var d206e4512 = new YAHOO.widget.TextNode(objd206e4512, d206e4505, false);
+var d206e4516 = new YAHOO.widget.TextNode("Word-to-DITA transform", d206e4472, false);
+var d206e4525 = new YAHOO.widget.TextNode("from OxygenXML", d206e4516, false);
+
+var objd206e4532 = {
+    label: "[Generating DITA From Within OxygenXML]",
+    href: "user_docs/docx2dita_guide_and_reference/word2dita-from-oxygen.html", 
+    target:"contentwin"
+};
+var d206e4532 = new YAHOO.widget.TextNode(objd206e4532, d206e4525, false);
+var d206e4536 = new YAHOO.widget.TextNode("troubleshooting", d206e4516, false);
+
+var objd206e4543 = {
+    label: "[Troubleshooting the Word-to-DITA Process]",
+    href: "user_docs/d4p-users-guide/word2dita/troubleshooting-word2dita.html", 
+    target:"contentwin"
+};
+var d206e4543 = new YAHOO.widget.TextNode(objd206e4543, d206e4536, false);
+var d206e4547 = new YAHOO.widget.TextNode("Word-to-DITA transformation framework", d206e4472, false);
+var d206e4556 = new YAHOO.widget.TextNode("Open Toolkit plugin for", d206e4547, false);
+
+var objd206e4563 = {
+    label: "[Generating DITA from Documents (Word-to-DITA Transformation Framework)]",
+    href: "user_docs/d4p-users-guide/word2dita/word-to-dita-plugin.html", 
+    target:"contentwin"
+};
+var d206e4563 = new YAHOO.widget.TextNode(objd206e4563, d206e4556, false);
+var d206e4567 = new YAHOO.widget.TextNode("X", d206e2649, false);
+var d206e4571 = new YAHOO.widget.TextNode("XSLT mode", d206e4567, false);
+var d206e4580 = new YAHOO.widget.TextNode("additional-graphic-refs", d206e4571, false);
+
+var objd206e4587 = {
     label: "[Graphic Map Generation]",
     href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
     target:"contentwin"
 };
-var d204e4531 = new YAHOO.widget.TextNode(objd204e4531, d204e4524, false);
-var d204e4535 = new YAHOO.widget.TextNode("generate-graphic-map", d204e4515, false);
+var d206e4587 = new YAHOO.widget.TextNode(objd206e4587, d206e4580, false);
+var d206e4591 = new YAHOO.widget.TextNode("generate-graphic-map", d206e4571, false);
 
-var objd204e4542 = {
+var objd206e4598 = {
     label: "[Graphic Map Generation]",
     href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
     target:"contentwin"
 };
-var d204e4542 = new YAHOO.widget.TextNode(objd204e4542, d204e4535, false);
-var d204e4546 = new YAHOO.widget.TextNode("gmap:get-graphic-refs", d204e4515, false);
+var d206e4598 = new YAHOO.widget.TextNode(objd206e4598, d206e4591, false);
+var d206e4602 = new YAHOO.widget.TextNode("gmap:get-graphic-refs", d206e4571, false);
 
-var objd204e4553 = {
+var objd206e4609 = {
     label: "[Graphic Map Generation]",
     href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
     target:"contentwin"
 };
-var d204e4553 = new YAHOO.widget.TextNode(objd204e4553, d204e4546, false);
-var d204e4557 = new YAHOO.widget.TextNode("gmap:get-output-url", d204e4515, false);
+var d206e4609 = new YAHOO.widget.TextNode(objd206e4609, d206e4602, false);
+var d206e4613 = new YAHOO.widget.TextNode("gmap:get-output-url", d206e4571, false);
 
-var objd204e4564 = {
+var objd206e4620 = {
     label: "[Graphic Map Generation]",
     href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
     target:"contentwin"
 };
-var d204e4564 = new YAHOO.widget.TextNode(objd204e4564, d204e4557, false);
-var d204e4568 = new YAHOO.widget.TextNode("map2graphicmap:handleImageListFile", d204e4515, false);
+var d206e4620 = new YAHOO.widget.TextNode(objd206e4620, d206e4613, false);
+var d206e4624 = new YAHOO.widget.TextNode("map2graphicmap:handleImageListFile", d206e4571, false);
 
-var objd204e4575 = {
+var objd206e4631 = {
     label: "[Graphic Map Generation]",
     href: "user_docs/d4p-users-guide/map-driven-processing/graphic-map-generation.html", 
     target:"contentwin"
 };
-var d204e4575 = new YAHOO.widget.TextNode(objd204e4575, d204e4568, false);
+var d206e4631 = new YAHOO.widget.TextNode(objd206e4631, d206e4624, false);
 
       
       tree.draw(); 
