@@ -116,27 +116,27 @@
     <p class="p">Each template does nothing other than produce a literal string that is the InDesign style name. </p>
 
     <div class="p">Looking at the first highlighted template above, the parts are:<table cellpadding="4" cellspacing="0" summary="" border="1" class="simpletable"><tr class="sthead">
-        <th valign="bottom" align="left" id="d23272e138" class="stentry" width="50%">Component</th>
+        <th valign="bottom" align="left" id="d23461e138" class="stentry" width="50%">Component</th>
 
-        <th valign="bottom" align="left" id="d23272e141" class="stentry" width="50%">Meaning</th>
-
-      </tr>
-<tr class="strow">
-        <td valign="top" headers="d23272e138" class="stentry"><samp class="ph codeph">match="/*[df:class(., 'topic/topic')]/*[df:class(., 'topic/title')]"</samp></td>
-
-        <td valign="top" headers="d23272e141" class="stentry">The match statement that matches a specific context. The value of the <code>@match</code> attribute is an XPath expression. Here it uses the DITA Support Library "df:class" function to match on elements based on their DITA <code>@class</code> values rather than their tagnames, e.g., title within a topic that is the root of the document (as indicated by the leading "/" in the XPath expression).</td>
+        <th valign="bottom" align="left" id="d23461e141" class="stentry" width="50%">Meaning</th>
 
       </tr>
 <tr class="strow">
-        <td valign="top" headers="d23272e138" class="stentry"><samp class="ph codeph">mode="style-map-pstyle"</samp></td>
+        <td valign="top" headers="d23461e138" class="stentry"><samp class="ph codeph">match="/*[df:class(., 'topic/topic')]/*[df:class(., 'topic/title')]"</samp></td>
 
-        <td valign="top" headers="d23272e141" class="stentry">The XSLT mode this template is used in, in this case "style-map-pstyle", indicating a template that maps to a paragraph style name. The other possible mode is "style-map-cstyle"</td>
+        <td valign="top" headers="d23461e141" class="stentry">The match statement that matches a specific context. The value of the <code>@match</code> attribute is an XPath expression. Here it uses the DITA Support Library "df:class" function to match on elements based on their DITA <code>@class</code> values rather than their tagnames, e.g., title within a topic that is the root of the document (as indicated by the leading "/" in the XPath expression).</td>
 
       </tr>
 <tr class="strow">
-        <td valign="top" headers="d23272e138" class="stentry"><samp class="ph codeph">&lt;xsl:sequence select="'Topic Title 1'"/&gt;</samp></td>
+        <td valign="top" headers="d23461e138" class="stentry"><samp class="ph codeph">mode="style-map-pstyle"</samp></td>
 
-        <td valign="top" headers="d23272e141" class="stentry">An XSLT 2 sequence constructor used to produce the literal string "Topic Title 1" per the value of the <code>@select</code> attribute. Note the single quotes within the double quotes of the attribute specification. The style name string is the style display name as it appears in the InDesign user interface.</td>
+        <td valign="top" headers="d23461e141" class="stentry">The XSLT mode this template is used in, in this case "style-map-pstyle", indicating a template that maps to a paragraph style name. The other possible mode is "style-map-cstyle"</td>
+
+      </tr>
+<tr class="strow">
+        <td valign="top" headers="d23461e138" class="stentry"><samp class="ph codeph">&lt;xsl:sequence select="'Topic Title 1'"/&gt;</samp></td>
+
+        <td valign="top" headers="d23461e141" class="stentry">An XSLT 2 sequence constructor used to produce the literal string "Topic Title 1" per the value of the <code>@select</code> attribute. Note the single quotes within the double quotes of the attribute specification. The style name string is the style display name as it appears in the InDesign user interface.</td>
 
       </tr>
 </table>

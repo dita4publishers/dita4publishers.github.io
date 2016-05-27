@@ -16,8 +16,6 @@
 <meta name="prodname" content="DITA For Publishers"></meta>
 <meta name="prodname" content="DITA For Publishers"></meta>
 <meta name="prodname" content="DITA For Publishers"></meta>
-<meta name="prodname" content="DITA For Publishers"></meta>
-<meta name="version" content="1"></meta>
 <meta name="version" content="1"></meta>
 <meta name="version" content="1"></meta>
 <meta name="version" content="1"></meta>
@@ -26,13 +24,10 @@
 <meta name="release" content="0"></meta>
 <meta name="release" content="0"></meta>
 <meta name="release" content="0"></meta>
-<meta name="release" content="0"></meta>
 <meta name="modification" content="0RC17"></meta>
 <meta name="modification" content="0RC17"></meta>
 <meta name="modification" content="0RC17"></meta>
 <meta name="modification" content="0RC17"></meta>
-<meta name="modification" content="0RC17"></meta>
-<meta name="DC.Creator" content="W. Eliot Kimber"></meta>
 <meta name="DC.Creator" content="W. Eliot Kimber"></meta>
 <meta name="DC.Creator" content="W. Eliot Kimber"></meta>
 <meta name="DC.Creator" content="W. Eliot Kimber"></meta>
@@ -56,7 +51,7 @@
     <p class="p">For example, with iBooks, if you put the metadata entry <samp class="ph codeph">&lt;meta name="cover" content="coverimage"/&gt;</samp> in your EPUB's OPF file (the main manifest), where "coverimage" is the manifest ID of an included graphic, then iBooks will use that graphic in the iBooks bookshelf in iTunes and in iBooks, rather than the default cover graphic. Other readers and EPUB libraries have similar features.</p>
 
     <div class="p">The EPUB transform provides several ways to specify the cover graphic:<ul class="ul">
-      <li class="li">You can specify the graphic as a parameter to the generation process (<a class="xref" href="reference/ant-parm-coverGraphicFile.html#referenceId" title="Specifies the absolute or relative path of the graphic to use as the cover graphic for the EPUB.">cover.graphic.file Ant parameter</a>)</li>
+      <li class="li">You can specify the graphic as a parameter to the generation process (<a class="xref" href="reference/ant-parm-coverGraphicFile.html">cover.graphic.file Ant parameter</a>)</li>
 
       <li class="li">You can include a <samp class="ph codeph">&lt;data&gt;</samp> element with a @name value of "covergraphic" in the root map's <code>&lt;topicmeta&gt;</code> element, where the value or content of the <code>&lt;data&gt;</code> element is the absolute or relative path (from the map) of the graphic to use.</li>
 

@@ -53,15 +53,15 @@
       content is ignored and not validated), as well as <code>&lt;output&gt;</code> elements that
       define the public and system IDs to use for any generated map or topic documents.</p>
 
-    <div class="p">The style elements can be: 
-      <ul class="ul">
+    <div class="p">The style elements can be:<ul class="ul">
         <li class="li"><code>&lt;paragraphStyle&gt;</code> - Used for paragraph styles</li>
 
         <li class="li"><code>&lt;characterStyle&gt;</code> - Used for character styles</li>
 
-        <li class="li"><code>&lt;style&gt;</code> - This element was used for all kinds of styles, before the 
-          dita4publishers release 0.9.19RC12. The latest Word2DITA release requires that you <a class="xref" href="style-to-tag-map-migrate.html">migrate</a> your 
-          style-to-tag map to the latest markup.</li>
+        <li class="li"><code>&lt;style&gt;</code> - Obsolete. This element was used for all kinds of styles,
+          before the dita4publishers release 0.9.19RC12. The latest Word2DITA release requires that
+          you <a class="xref" href="style-to-tag-map-migrate.html">migrate</a> your style-to-tag map to the
+          latest markup.</li>
 
       </ul>
 </div>
@@ -554,7 +554,40 @@
 </dd>
 
       
+        
+          <dt class="dt dlterm"><code>@langAttValue</code></dt>
+
+          <dd class="dd">Specifies the value to use for the <code>@xml:lang</code> attribute on the
+            directly-generated element produced by the style-to-tag mapping.<p class="p">When specified on
+                <code>&lt;mapProperties&gt;</code> or <code>&lt;topicProperties&gt;</code> the value of
+                <code>@langAttValue</code> overrides the value of the
+                <span class="keyword parmname">w2d.language</span> Ant parameter to set the language for the
+              generated root or topic.</p>
+</dd>
+
+        
       </dl>
+</div>
+
+    <div class="p">Within <code>&lt;paragraphStyle&gt;</code> and <code>&lt;characterStyle&gt;</code> you can use
+      the <code>&lt;additionalAttributes&gt;</code> element to specify additional attributes to be set
+      on the directly-generated element. For example, you can use it to set conditional
+      attributes:<pre class="pre codeblock">&lt;paragraphStyle styleName="myPara"
+  structureType="block"
+  tagName="p"
+  topicZone="body"
+&gt;
+  <strong class="ph b">&lt;additionalAttributes&gt;
+    &lt;attribute name="displayTarget" value="pdf"/&gt;
+    &lt;attribute name="audience" value="learner"/&gt;
+  &lt;/additionalAttributes&gt;
+</strong>&lt;/paragraphStyle&gt;</pre>
+</div>
+
+    <div class="p">This style mapping will result in the attributes <code>@displayTarget</code> and
+        <code>@audience</code> being set to the values "pdf" and "learner" respecitively on the
+      generated <code>&lt;p&gt;</code>
+      element:<pre class="pre codeblock">&lt;p displayTarget="pdf" audience="learner"&gt;...&lt;/p&gt;</pre>
 </div>
 
   </div>
